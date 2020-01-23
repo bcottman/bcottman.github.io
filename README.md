@@ -1,2 +1,2 @@
-# bcottman's Blog Reference
+# bcottman's Blog of Blog References
 
