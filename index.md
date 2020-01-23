@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## bruce Cottman's Reference Blog
 
-![Image of fast.ai logo](images/logo.png)
+### Posts on Medium:
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+[Part 1: Will Streamlit kill off Flask?](https://medium.com/p/5ecd75f879c8/info)
