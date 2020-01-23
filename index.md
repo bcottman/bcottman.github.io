@@ -1,10 +1,10 @@
 ## bruce Cottman's Reference Blog
 
-1. paso’s Offering of Logging and Parameter Services for your Python Project(https://medium.com/@dr.bruce.cottman/pasos-offering-of-logging-and-parameter-services-for-your-python-project-c3ae2fd6869a)
+1. [paso’s Offering of Logging and Parameter Services for your Python Project](https://medium.com/@dr.bruce.cottman/pasos-offering-of-logging-and-parameter-services-for-your-python-project-c3ae2fd6869a)
 
-1. Part 1: Balancing and Augmenting Structured Data(https://medium.com/@dr.bruce.cottman/part-1-balancing-and-augmenting-structured-data-4ade0df38662)
+1. [Part 1: Balancing and Augmenting Structured Data](https://medium.com/@dr.bruce.cottman/part-1-balancing-and-augmenting-structured-data-4ade0df38662)
 
-1. Uncommon Data Cleaners for your Real-World Machine or Deep Learning Project(https://towardsdatascience.com/uncommon-data-cleaners-for-your-real-world-machine-or-deep-learning-project-f926d8ecb258)
+1. [Uncommon Data Cleaners for your Real-World Machine or Deep Learning Project](https://towardsdatascience.com/uncommon-data-cleaners-for-your-real-world-machine-or-deep-learning-project-f926d8ecb258)
 
 1. [Part 2 — More Uncommon Data Cleaners for your Machine or Deep Learning Project](Part 2 — More Uncommon Data Cleaners for your Machine or Deep Learning Project)
 
