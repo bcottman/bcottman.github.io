@@ -1,5 +1,7 @@
 ## bruce Cottman's Reference Blog
 
+### Medium Blogs
+
 1. [paso’s Offering of Logging and Parameter Services for your Python Project](https://medium.com/@dr.bruce.cottman/pasos-offering-of-logging-and-parameter-services-for-your-python-project-c3ae2fd6869a) 
 
 1. [Part 1: Balancing and Augmenting Structured Data](https://medium.com/@dr.bruce.cottman/part-1-balancing-and-augmenting-structured-data-4ade0df38662)
