@@ -6,7 +6,7 @@
 
 1. [Uncommon Data Cleaners for your Real-World Machine or Deep Learning Project](https://towardsdatascience.com/uncommon-data-cleaners-for-your-real-world-machine-or-deep-learning-project-f926d8ecb258)
 
-1. [Part 2 — More Uncommon Data Cleaners for your Machine or Deep Learning Project](Part 2 — More Uncommon Data Cleaners for your Machine or Deep Learning Project)
+1. [Part 2 — More Uncommon Data Cleaners for your Machine or Deep Learning Project](https://medium.com/@dr.bruce.cottman/part-2-more-uncommon-data-cleaners-for-your-machine-or-deep-learning-project-b30f862b2d81)
 
 1. [Part 1: Will Streamlit kill off Flask?](https://medium.com/swlh/part-1-will-streamlit-kill-off-flask-5ecd75f879c8)
 
