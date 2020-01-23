@@ -8,6 +8,6 @@
 
 1. [Part 2 — More Uncommon Data Cleaners for your Machine or Deep Learning Project](Part 2 — More Uncommon Data Cleaners for your Machine or Deep Learning Project)
 
-1. [Part 1: Will Streamlit kill off Flask?]https://medium.com/swlh/part-1-will-streamlit-kill-off-flask-5ecd75f879c8)
+1. [Part 1: Will Streamlit kill off Flask?](https://medium.com/swlh/part-1-will-streamlit-kill-off-flask-5ecd75f879c8)
 
 1. [Part 2: Will Streamlit cause the extinction of Flask?](https://medium.com/@dr.bruce.cottman/part-2-will-streamlit-cause-the-extinction-of-flask-395d282296ed)
