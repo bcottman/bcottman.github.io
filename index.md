@@ -1,4 +1,4 @@
-## bruce Cottman's Reference Blog
+## bruce Cottman's Blogs
 
 ### Medium Blogs
 
