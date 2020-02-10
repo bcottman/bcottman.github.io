@@ -10,9 +10,11 @@
 
 1. [More Uncommon Data Cleaners for your Machine or Deep Learning Project](https://towardsdatascience.com/part-2-more-uncommon-data-cleaners-for-your-machine-or-deep-learning-project-b30f862b2d81) towardsdatascience.com - Dec 14, 2019.
 
-1. [Will Streamlit kill off Flask?](https://medium.com/swlh/part-1-will-streamlit-kill-off-flask-5ecd75f879c8) theStartup.com -Dec 22, 2019.
+1. [Will Streamlit kill off Flask?](https://medium.com/swlh/part-1-will-streamlit-kill-off-flask-5ecd75f879c8) theStartup.com - Dec 22, 2019.
 
 1. [Will Streamlit cause the extinction of Flask?](https://towardsdatascience.com/part-2-will-streamlit-cause-the-extinction-of-flask-395d282296ed) towardsdatascience.com - Jan 21, 2020.
 
 1. [Create Your Blog Site for Free](https://medium.com/@dr.bruce.cottman/create-your-free-blog-site-204a5e27f197) towardsdatascience.com - Jan 24, 2020.
+
+1. [Future Proof Your Python code](https://medium.com/swlh/future-proof-your-python-code-20ef2b75e9f5) theStartup.com - Feb 9, 2019.
 
