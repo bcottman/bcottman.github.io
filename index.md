@@ -18,3 +18,5 @@
 
 1. [Future Proof Your Python code](https://medium.com/swlh/future-proof-your-python-code-20ef2b75e9f5) theStartup.com - Feb 9, 2019.
 
+1. [Will Tensorflow for Swift be a Machine Learning Framework on Android and iPhone](https://medium.com/@dr.bruce.cottman/tensorflow-for-swift-you-have-got-to-be-kidding-d8fc5c547430) Feb 13, 2019.
+
