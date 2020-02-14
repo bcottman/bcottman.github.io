@@ -1,5 +1,5 @@
 # About
-Physcist, Machine Learning Scientist and constanly improving Software Engineer. I write about what I use.
+Physcist, Machine Learning Scientist and constanly improving Software Engineer.  I extrapolate the future from emerging technologies.
 
 - have over 19 years focusing on delivering solutions using Java, R and Python. 
 
