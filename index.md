@@ -16,7 +16,10 @@
 
 1. [Create Your Blog Site for Free](https://medium.com/@dr.bruce.cottman/create-your-free-blog-site-204a5e27f197) towardsdatascience.com - Jan 24, 2020.
 
-1. [Future Proof Your Python code](https://medium.com/swlh/future-proof-your-python-code-20ef2b75e9f5) theStartup.com - Feb 9, 2019.
+1. [Future Proof Your Python code](https://medium.com/swlh/future-proof-your-python-code-20ef2b75e9f5) theStartup.com - Feb 9, 2020.
 
-1. [Will Tensorflow for Swift be a Machine Learning Framework on Android and iPhone](https://medium.com/@dr.bruce.cottman/tensorflow-for-swift-you-have-got-to-be-kidding-d8fc5c547430) Feb 13, 2019.
+1. [Tensorflow for Swift is a Machine Learning Framework on Android and iPhone](https://medium.com/@dr.bruce.cottman/tensorflow-for-swift-you-have-got-to-be-kidding-d8fc5c547430)
+In Noteworthy - The Journal Blog Feb 14, 2020.
+ 
+1. [A Docker Solution For the Enterprise](https://medium.com/swlh/a-docker-solution-for-the-enterprise-7b5d2942b43a) theStartup.com - Feb 16, 2020.
 
