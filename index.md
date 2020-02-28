@@ -23,3 +23,5 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
  
 1. [A Docker Solution For the Enterprise](https://medium.com/swlh/a-docker-solution-for-the-enterprise-7b5d2942b43a) theStartup.com - Feb 16, 2020.
 
+1. [A Docker Solution For the Test groups use-cases](https://medium.com/me/stats/post/8e8ed6c28e11) Software Enginering - Feb 27, 2020/
+
