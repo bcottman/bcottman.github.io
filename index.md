@@ -23,5 +23,7 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
  
 1. [A Docker Solution For the Enterprise](https://medium.com/swlh/a-docker-solution-for-the-enterprise-7b5d2942b43a) theStartup.com - Feb 16, 2020.
 
-1. [A Docker Solution For the Test groups use-cases](https://medium.com/me/stats/post/8e8ed6c28e11) theStartup.com - Feb 27, 2020/
+1. [We doubled our Docker Enterprise Solution Speeds](https://medium.com/me/stats/post/8e8ed6c28e11) theStartup.com - Feb 27, 2020.
+
+1.[https://medium.com/@dr.bruce.cottman/is-photonai-a-better-choice-than-scikit-learn-b8d25979eb76](https://medium.com/@dr.bruce.cottman/a-docker-solution-for-the-test-groups-use-cases-8e8ed6c28e11)towardsdatascience.com - March 6, 2020.
 
