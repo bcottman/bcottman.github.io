@@ -25,5 +25,7 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [We doubled our Docker Enterprise Solution Speeds](https://medium.com/me/stats/post/8e8ed6c28e11) theStartup.com - Feb 27, 2020.
 
-1. [Is Photonai a Better Choice Than Scikit-Learn?](https://medium.com/@dr.bruce.cottman/is-photonai-a-better-choice-than-scikit-learn-b8d25979eb76) towardsdatascience.com - March 6, 2020.
+1. [Is Photonai a Better Choice Than Scikit-Learn?](https://https://towardsdatascience.com/is-photonai-a-better-choice-than-scikit-learn-f33849423709) towardsdatascience.com - March 6, 2020.
+
+1. []()
 
