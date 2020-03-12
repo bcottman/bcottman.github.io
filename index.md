@@ -27,5 +27,5 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Is Photonai a Better Choice Than Scikit-Learn?](https://https://towardsdatascience.com/is-photonai-a-better-choice-than-scikit-learn-f33849423709) towardsdatascience.com - March 6, 2020.
 
-1. [Streamlit can not yet replace Flask: The Streamlit 2020 Roadmap](https://medium.com/@dr.bruce.cottman/streamlit-can-not-yet-replace-flask-the-streamlit-2020-roadmap-64840564acde) theStartup.com - March 9, 2020.
+1. [Streamlit can not yet replace Flask: The Streamlit 2020 Roadmap](https://medium.com/@dr.bruce.cottman/streamlit-can-not-yet-replace-flask-the-streamlit-2020-roadmap-64840564acde) towardsdatascience.com - March 9, 2020.
 
