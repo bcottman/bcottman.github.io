@@ -29,3 +29,5 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Streamlit can not yet replace Flask: The Streamlit 2020 Roadmap](https://medium.com/@dr.bruce.cottman/streamlit-can-not-yet-replace-flask-the-streamlit-2020-roadmap-64840564acde) towardsdatascience.com - March 9, 2020.
 
+[11 Refactoring Tasks to Up Your Game](https://medium.com/@dr.bruce.cottman/11-refactoring-tasks-to-up-your-game-52c39bfe0183)  towardsdatascience.com - March 20, 2020.
+
