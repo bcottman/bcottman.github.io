@@ -31,7 +31,7 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [11 Refactoring Tasks to Up Your Game.](https://medium.com/@dr.bruce.cottman/11-refactoring-tasks-to-up-your-game-52c39bfe0183)  towardsdatascience.com - March 20, 2020.
 
-1. [How we Used Machine Learning in the Era of COVID-19](https://medium.com/@dr.bruce.cottman/how-we-used-machine-learning-in-the-era-of-covid-19-c29ba64b07c5) Medium.com - March 25, 2020.
+1. [How we Used Machine Learning in the Era of COVID-19](https://medium.com/@dr.bruce.cottman/how-we-used-machine-learning-in-the-era-of-covid-19-c29ba64b07c5) towardsdatascience.com - March 25, 2020.
 
-1. [12 Examples of How To Write Better Code Using @dataclass](https://towardsdatascience.com/12-examples-of-how-to-write-better-code-using-dataclass-d7c121ee0239)
+1. [12 Examples of How To Write Better Code Using @dataclass](https://towardsdatascience.com/12-examples-of-how-to-write-better-code-using-dataclass-d7c121ee0239) towardsdatascience.com - March 31, 2020.
 
