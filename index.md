@@ -35,3 +35,5 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [12 Examples of How To Write Better Code Using @dataclass](https://towardsdatascience.com/12-examples-of-how-to-write-better-code-using-dataclass-d7c121ee0239) towardsdatascience.com - March 31, 2020.
 
+1. [Adding Jupyter Notebook Extensions to a Docker Image](https://towardsdatascience.com/adding-jupyter-notebook-extensions-to-a-docker-image-851bc2601ca3) towardsdatascience.com - April 2, 2020.
+
