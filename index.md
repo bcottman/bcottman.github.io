@@ -1,4 +1,13 @@
-## Bruce Cottman's Blogs
+ ## PUBLICATIONS (Selected)
+
+“Solving the Data Interoperability Problem using a Universal Data Access Broker”. Mike Higgs & Bruce H. Cottman, IEEE Data Engineering Bulletin, September 1998. https://dblp.org/db/journals/debu/debu21
+
+“A Development Framework for Distributed Operations Support Systems”, R.M. Adler and B.H. Cottman. Fifth Conference on AI for Space Applications, Huntsville, Alabama, May 1990.
+
+ “A Development Framework for Distributed Artificial Intelligence”, R.M. Adler and B.H. Cottman.  IEEE Fifth Conference on Artificial Intelligence Applications, Miami, FL, March 1989. 
+
+Other publications include Approximately 20 final reports by Army, Darpa, NASA, and the Navy approximately and 12 papers published in Physics Letter C, Physics C and Nuclear Methods.
+
 
 ### Medium Blogs
 
