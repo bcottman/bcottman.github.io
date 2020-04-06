@@ -9,7 +9,7 @@
 Other publications include Approximately 20 final reports by Army, Darpa, NASA, and the Navy approximately and 12 papers published in Physics Letter C, Physics C and Nuclear Methods.
 
 
-### Medium Blogs
+## Medium Articles
 
 1. [paso’s Offering of Logging and Parameter Services for your Python Project.](https://medium.com/@dr.bruce.cottman/pasos-offering-of-logging-and-parameter-services-for-your-python-project-c3ae2fd6869a) towardsdatascience.com - June 15, 2019.
 
