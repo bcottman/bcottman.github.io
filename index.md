@@ -46,5 +46,5 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Adding Jupyter Notebook Extensions to a Docker Image](https://towardsdatascience.com/adding-jupyter-notebook-extensions-to-a-docker-image-851bc2601ca3) towardsdatascience.com - April 2, 2020.
 
-1. []()
+1. [21 Techniques to Write Better Python Code](https://medium.com/@dr.bruce.cottman/21-techniques-to-write-better-python-code-3029f6562483) Machine Learning  - April 9, 2020.
 
