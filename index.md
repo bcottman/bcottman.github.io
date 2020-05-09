@@ -50,3 +50,5 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [PyCharm: An Animated Guide to Creating Projects and Setting their Behavior](https://medium.com/@dr.bruce.cottman/pycharm-an-animated-guide-to-creating-projects-and-setting-their-behavior-696d69dbbb6) Programming  - May 1, 2020.
 
+1. [Seventeen Basic Techniques from my Code Review Checklist](https://medium.com/@dr.bruce.cottman/seventeen-basic-techniques-from-my-code-review-checklist-8d5f0f7c4bbc) - May 9, 2020.
+
