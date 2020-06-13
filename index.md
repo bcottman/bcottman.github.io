@@ -52,4 +52,4 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Seventeen Basic Techniques from my Code Review Checklist](https://medium.com/@dr.bruce.cottman/seventeen-basic-techniques-from-my-code-review-checklist-8d5f0f7c4bbc) theStartup.com  - May 9, 2020.
 
-1. [45 Observations of an Extensive Study of KMeans and KMedoids Unsupervised Learning Clustering.](https://towardsdatascience.com/45-observations-of-an-extensive-study-of-kmeans-and-kmedoids-unsupervised-learning-clustering-41da9b254712) MachineLearning.com  - May 9, 2020.
+1. [45 Observations of an Extensive Study of KMeans and KMedoids Unsupervised Learning Clustering.](https://towardsdatascience.com/45-observations-of-an-extensive-study-of-kmeans-and-kmedoids-unsupervised-learning-clustering-41da9b254712) MachineLearning.com  - June 13, 2020.
