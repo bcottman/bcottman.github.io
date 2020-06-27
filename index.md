@@ -55,3 +55,6 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [45 Observations of an Extensive Study of KMeans and KMedoids Unsupervised Learning Clustering.](https://towardsdatascience.com/45-observations-of-an-extensive-study-of-kmeans-and-kmedoids-unsupervised-learning-clustering-41da9b254712) towardsdatascience.com  - June 13, 2020.
 
 1. [Will a Coronavirus strain cause the next pandemic?](https://medium.com/@dr.bruce.cottman/will-a-coronavirus-strain-cause-the-next-pandemic-a514c06ed188) 
+
+1. [My journey to speed up Python: Setting Up a GoLang Development Environment and Benchmarking]()
+
