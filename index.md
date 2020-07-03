@@ -56,5 +56,5 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Will a Coronavirus strain cause the next pandemic?](https://medium.com/@dr.bruce.cottman/will-a-coronavirus-strain-cause-the-next-pandemic-a514c06ed188) 
 
-1. [My journey to speed up Python: Setting Up a GoLang Development Environment and Benchmarking]()
+1. [My journey to speed up Python: Setting Up a GoLang Development Environment and Benchmarking](https://medium.com/me/stats/post/f03c5252ef8f)  towardsdatascience.com  - June 26, 2020.
 
