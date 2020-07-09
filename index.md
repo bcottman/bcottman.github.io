@@ -58,5 +58,5 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [My journey to speed up Python: Setting Up a GoLang Development Environment and Benchmarking](https://medium.com/me/stats/post/f03c5252ef8f)  towardsdatascience.com  - June 26, 2020.
 
-1. [Will Github Actions kill off Jenkins?] (https://medium.com/@dr.bruce.cottman/will-github-actions-kill-off-jenkins-f85e614bb8d3) - July 9. 2020.
+1. [Will Github Actions kill off Jenkins?](https://medium.com/@dr.bruce.cottman/will-github-actions-kill-off-jenkins-f85e614bb8d3) - July 9. 2020.
 
