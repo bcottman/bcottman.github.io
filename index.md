@@ -61,3 +61,5 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [S\*\*\*e of Master/S\*\*\*e is the S-word of Technology](https://medium.com/me/stats/post/f64cb3a6697a) - July 13. 2020.
 
 1. [Coronavirus strains may result in more pandemics]()  - July 20. 2020.
+
+1. [Natural Language Processing in Production: Creating Docker Images](https://medium.com/@dr.bruce.cottman/natural-language-processing-in-production-creating-docker-images-84bd86e161b4)
