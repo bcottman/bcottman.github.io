@@ -66,5 +66,5 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Converting PDF and Gutenberg Document Formats into Text: Natural Language Processing in Production](https://towardsdatascience.com/natural-language-processing-in-production-converting-pdf-and-gutenberg-document-formats-into-text-9e7cd3046b33) Published in [Machine Learning](https://medium.com/topic/machine-learning) and [Programming](https://medium.com/topic/programming)- August 24, 2020.
 
-1. Is GPT-3 the "Adam" of natural language? (https://medium.com/@dr.bruce.cottman/is-gpt-3-the-adam-of-natural-language-cf59656456f2) Published in [Artificial Intelligence](https://medium.com/topic/artificial-intelligence) and [Machine Learning](https://medium.com/topic/machine-learning) and - September 1, 2020.
+1. [Is GPT-3 the "Adam" of natural language? (https://medium.com/@dr.bruce.cottman/is-gpt-3-the-adam-of-natural-language-cf59656456f2) Published in [Artificial Intelligence](https://medium.com/topic/artificial-intelligence) and [Machine Learning](https://medium.com/topic/machine-learning) and - September 1, 2020.
  
