@@ -68,8 +68,8 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Is GPT-3 the "Adam" of natural language?](https://medium.com/@dr.bruce.cottman/is-gpt-3-the-adam-of-natural-language-cf59656456f2) Published in [Artificial Intelligence](https://medium.com/topic/artificial-intelligence) and [Machine Learning](https://medium.com/topic/machine-learning) - September 1, 2020.
 
-1. [Approximately One Million Datasets and one Benchmark framework for your Natural Language Processing Project](https://medium.com/me/stats/post/e4541fa217b2) Machine Learning](https://medium.com/topic/machine-learning) - September 15, 2020.
+1. [Approximately One Million Datasets and one Benchmark framework for your Natural Language Processing Project](https://medium.com/me/stats/post/e4541fa217b2) [Machine Learning](https://medium.com/topic/machine-learning) - September 15, 2020.
 
-1. [Natural Language Processing in Production: 27 Fast Text Pre-Processing Methods](https://medium.com/@dr.bruce.cottman/natural-language-processing-in-production-27-fast-text-pre-processing-methods-f5e8bceececf)  Machine Learning](https://medium.com/topic/machine-learning) - September 16, 2020.
+1. [Natural Language Processing in Production: 27 Fast Text Pre-Processing Methods](https://medium.com/@dr.bruce.cottman/natural-language-processing-in-production-27-fast-text-pre-processing-methods-f5e8bceececf)  [Machine Learning](https://medium.com/topic/machine-learning) - September 16, 2020.
 
  
