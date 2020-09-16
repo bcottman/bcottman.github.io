@@ -11,7 +11,7 @@ Other publications include Approximately 20 final reports by Army, Darpa, NASA, 
 
 ## Medium Articles
 
-1. [paso’s Offering of Logging and Parameter Services for your Python Project.](https://medium.com/@dr.bruce.cottman/pasos-offering-of-logging-and-parameter-services-for-your-python-project-c3ae2fd6869a) towardsdatascience.com - June 15, 2019.
+1. [paso’s Offering of Logging and Parameter Services for your Python Project.](https://medium.com/@dr.bruce.cottman/pasos-offering-of-logging-and-parameter-services-for-your-python-project-c3ae2fd6869a) Published in towardsdatascience.com - June 15, 2019.
 
 1. [Balancing and Augmenting Structured Data.](https://towardsdatascience.com/part-1-balancing-and-augmenting-structured-data-4ade0df38662) towardsdatascience.com - Oct 11, 2019.
 
@@ -21,42 +21,42 @@ Other publications include Approximately 20 final reports by Army, Darpa, NASA, 
 
 1. [Will Streamlit kill off Flask?](https://medium.com/swlh/part-1-will-streamlit-kill-off-flask-5ecd75f879c8) theStartup.com - Dec 22, 2019.
 
-1. [Will Streamlit cause the extinction of Flask?](https://towardsdatascience.com/part-2-will-streamlit-cause-the-extinction-of-flask-395d282296ed) towardsdatascience.com - Jan 21, 2020.
+1. [Will Streamlit cause the extinction of Flask?](https://towardsdatascience.com/part-2-will-streamlit-cause-the-extinction-of-flask-395d282296ed) Published in towardsdatascience.com - Jan 21, 2020.
 
-1. [Create Your Blog Site for Free.](https://medium.com/@dr.bruce.cottman/create-your-free-blog-site-204a5e27f197) towardsdatascience.com - Jan 24, 2020.
+1. [Create Your Blog Site for Free.](https://medium.com/@dr.bruce.cottman/create-your-free-blog-site-204a5e27f197) Published in towardsdatascience.com - Jan 24, 2020.
 
-1. [Future Proof Your Python code.](https://medium.com/swlh/future-proof-your-python-code-20ef2b75e9f5) theStartup.com - Feb 9, 2020.
+1. [Future Proof Your Python code.](https://medium.com/swlh/future-proof-your-python-code-20ef2b75e9f5) Published in theStartup.com - Feb 9, 2020.
 
 1. [Tensorflow for Swift is a Machine Learning Framework on Android and iPhone.](https://medium.com/@dr.bruce.cottman/tensorflow-for-swift-you-have-got-to-be-kidding-d8fc5c547430)
-In Noteworthy - The Journal Blog Feb 14, 2020.
+Published In Noteworthy - The Journal Blog Feb 14, 2020.
  
-1. [A Docker Solution For the Enterprise.](https://medium.com/swlh/a-docker-solution-for-the-enterprise-7b5d2942b43a) theStartup.com - Feb 16, 2020.
+1. [A Docker Solution For the Enterprise.](https://medium.com/swlh/a-docker-solution-for-the-enterprise-7b5d2942b43a) Published in theStartup.com - Feb 16, 2020.
 
-1. [We doubled our Docker Enterprise Solution Speeds.](https://medium.com/me/stats/post/8e8ed6c28e11) theStartup.com - Feb 27, 2020.
+1. [We doubled our Docker Enterprise Solution Speeds.](https://medium.com/me/stats/post/8e8ed6c28e11) Published in theStartup.com - Feb 27, 2020.
 
 1. [Is Photonai a Better Choice Than Scikit-Learn?](https://medium.com/me/stats/post/f33849423709) towardsdatascience.com - March 6, 2020.
 
 1. [Streamlit can not yet replace Flask: The Streamlit 2020 Roadmap.](https://medium.com/@dr.bruce.cottman/streamlit-can-not-yet-replace-flask-the-streamlit-2020-roadmap-64840564acde) towardsdatascience.com - March 9, 2020.
 
-1. [11 Refactoring Tasks to Up Your Game.](https://medium.com/@dr.bruce.cottman/11-refactoring-tasks-to-up-your-game-52c39bfe0183)  towardsdatascience.com - March 20, 2020.
+1. [11 Refactoring Tasks to Up Your Game.](https://medium.com/@dr.bruce.cottman/11-refactoring-tasks-to-up-your-game-52c39bfe0183)  Published in towardsdatascience.com - March 20, 2020.
 
-1. [How we Used Machine Learning in the Era of COVID-19.](https://medium.com/@dr.bruce.cottman/how-we-used-machine-learning-in-the-era-of-covid-19-c29ba64b07c5) towardsdatascience.com - March 25, 2020.
+1. [How we Used Machine Learning in the Era of COVID-19.](https://medium.com/@dr.bruce.cottman/how-we-used-machine-learning-in-the-era-of-covid-19-c29ba64b07c5) Published in towardsdatascience.com - March 25, 2020.
 
-1. [12 Examples of How To Write Better Code Using @dataclass.](https://towardsdatascience.com/12-examples-of-how-to-write-better-code-using-dataclass-d7c121ee0239) towardsdatascience.com - March 31, 2020.
+1. [12 Examples of How To Write Better Code Using @dataclass.](https://towardsdatascience.com/12-examples-of-how-to-write-better-code-using-dataclass-d7c121ee0239) Published in towardsdatascience.com - March 31, 2020.
 
-1. [Adding Jupyter Notebook Extensions to a Docker Image.](https://towardsdatascience.com/adding-jupyter-notebook-extensions-to-a-docker-image-851bc2601ca3) towardsdatascience.com - April 2, 2020.
+1. [Adding Jupyter Notebook Extensions to a Docker Image.](https://towardsdatascience.com/adding-jupyter-notebook-extensions-to-a-docker-image-851bc2601ca3) Published in towardsdatascience.com - April 2, 2020.
 
-1. [21 Techniques to Write Better Python Code.](https://medium.com/@dr.bruce.cottman/21-techniques-to-write-better-python-code-3029f6562483) Programming, Machine Learning  - April 9, 2020.
+1. [21 Techniques to Write Better Python Code.](https://medium.com/@dr.bruce.cottman/21-techniques-to-write-better-python-code-3029f6562483) Published in [Machine Learning](https://medium.com/topic/machine-learning) and [Programming](https://medium.com/topic/programming)  - April 9, 2020.
 
-1. [PyCharm: An Animated Guide to Creating Projects and Setting their Behavior.](https://medium.com/@dr.bruce.cottman/pycharm-an-animated-guide-to-creating-projects-and-setting-their-behavior-696d69dbbb6) Programming  - May 1, 2020.
+1. [PyCharm: An Animated Guide to Creating Projects and Setting their Behavior.](https://medium.com/@dr.bruce.cottman/pycharm-an-animated-guide-to-creating-projects-and-setting-their-behavior-696d69dbbb6) Published in [Machine Learning](https://medium.com/topic/machine-learning) and [Programming](https://medium.com/topic/programming)  - May 1, 2020.
 
-1. [Seventeen Basic Techniques from my Code Review Checklist.](https://medium.com/@dr.bruce.cottman/seventeen-basic-techniques-from-my-code-review-checklist-8d5f0f7c4bbc) theStartup.com  - May 9, 2020.
+1. [Seventeen Basic Techniques from my Code Review Checklist.](https://medium.com/@dr.bruce.cottman/seventeen-basic-techniques-from-my-code-review-checklist-8d5f0f7c4bbc)  Published in theStartup.com  - May 9, 2020.
 
-1. [45 Observations of an Extensive Study of KMeans and KMedoids Unsupervised Learning Clustering.](https://towardsdatascience.com/45-observations-of-an-extensive-study-of-kmeans-and-kmedoids-unsupervised-learning-clustering-41da9b254712) towardsdatascience.com  - June 13, 2020.
+1. [45 Observations of an Extensive Study of KMeans and KMedoids Unsupervised Learning Clustering.](https://towardsdatascience.com/45-observations-of-an-extensive-study-of-kmeans-and-kmedoids-unsupervised-learning-clustering-41da9b254712)  Published in  towardsdatascience.com  - June 13, 2020.
 
-1. [My journey to speed up Python: Setting Up a GoLang Development Environment and Benchmarking.](https://medium.com/me/stats/post/f03c5252ef8f)  towardsdatascience.com  - June 26, 2020.
+1. [My journey to speed up Python: Setting Up a GoLang Development Environment and Benchmarking.](https://medium.com/me/stats/post/f03c5252ef8f)   Published in towardsdatascience.com  - June 26, 2020.
 
-1. [Will Github Actions kill off Jenkins?](https://medium.com/@dr.bruce.cottman/will-github-actions-kill-off-jenkins-f85e614bb8d3)  theStartup.com - July 9. 2020.
+1. [Will Github Actions kill off Jenkins?](https://medium.com/@dr.bruce.cottman/will-github-actions-kill-off-jenkins-f85e614bb8d3)  Published in theStartup.com - July 9. 2020.
 
 1. [S\*\*\*e of Master/S\*\*\*e is the S-word of Technology.](https://medium.com/me/stats/post/f64cb3a6697a) - July 13. 2020.
 
@@ -68,8 +68,8 @@ In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Is GPT-3 the "Adam" of natural language?](https://medium.com/@dr.bruce.cottman/is-gpt-3-the-adam-of-natural-language-cf59656456f2) Published in [Artificial Intelligence](https://medium.com/topic/artificial-intelligence) and [Machine Learning](https://medium.com/topic/machine-learning) - September 1, 2020.
 
-1. [Approximately One Million Datasets and one Benchmark framework for your Natural Language Processing Project.](https://medium.com/me/stats/post/e4541fa217b2) [Machine Learning](https://medium.com/topic/machine-learning) - September 15, 2020.
+1. [Approximately One Million Datasets and one Benchmark framework for your Natural Language Processing Project.](https://medium.com/me/stats/post/e4541fa217b2)  Published in [Machine Learning](https://medium.com/topic/machine-learning) - September 15, 2020.
 
-1. [Natural Language Processing in Production: 27 Fast Text Pre-Processing Methods.](https://medium.com/@dr.bruce.cottman/natural-language-processing-in-production-27-fast-text-pre-processing-methods-f5e8bceececf)  [Machine Learning](https://medium.com/topic/machine-learning) - September 16, 2020.
+1. [Natural Language Processing in Production: 27 Fast Text Pre-Processing Methods.](https://medium.com/@dr.bruce.cottman/natural-language-processing-in-production-27-fast-text-pre-processing-methods-f5e8bceececf)  Published in   [Machine Learning](https://medium.com/topic/machine-learning) - September 16, 2020.
 
  
