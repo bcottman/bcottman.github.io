@@ -74,5 +74,5 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
  1. [Does size matter for Natural Language Text Generation?](https://medium.com/@dr.bruce.cottman/does-size-matter-for-natural-language-text-generation-37a713afbaed) Published in [The Startup](https://medium.com/swlh), [Machine Learning](https://medium.com/topic/machine-learning)  - September 18, 2020.
  
- 1. [A Fantastic Way to Programmatically Create Diagrams for Different Cloud Architectures.]()
+ 1. [A Fantastic Way to Programmatically Create Diagrams for Different Cloud Architectures.]() - October 11, 2020.
 
