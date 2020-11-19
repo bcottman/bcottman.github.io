@@ -81,12 +81,9 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [edX AWS SageMaker: I am not Proud About Getting 100% on the Final Exam](https://medium.com/me/stats/post/abe243f21a5d) - Published in Level Up Coding - October 19, 2020.
 
-1. []
+1. [Hints and Tips for Coursera Google Cloud Platform Fundamentals: Core Infrastructure](https://dr-bruce-cottman.medium.com/i-wish-i-had-known-these-thirty-concepts-and-sixty-lesson-tips-before-i-took-the-edx-aws-cef1be69e862) - Published in [Anlkytics Vidhya] (https://medium.com/analytics-vidhya)- October 28, 2020.
 
-1. []
+1. [7 Hints and 10 Tips for Coursera Essential Google Cloud Infrastructure: Foundation](https://dr-bruce-cottman.medium.com/i-wish-i-had-known-these-thirty-concepts-and-sixty-lesson-tips-before-i-took-the-edx-aws-cef1be69e862) - Published in [Anlkytics Vidhya] (https://medium.com/analytics-vidhya)- November 5, 2020.
 
-1. []
+1. [Guide for Choosing A Cloud Vendor](https://medium.com/me/stats/post/e14cff94dcf9) - Published in [The Startup](https://medium.com/swlh) - November 2020.
 
-1. []
-
-1. []
