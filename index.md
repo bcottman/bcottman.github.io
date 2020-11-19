@@ -76,5 +76,17 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
  
  1. [A Fantastic Way to Programmatically Create Diagrams for Different Cloud Architectures.]() Published in [Better Programming]()- October 11, 2020.
  
- 1. [I Wish I had Known these Thirty Concepts and Sixty Lesson Tips Before I Took the edX AWS Developer Course](https://dr-bruce-cottman.medium.com/i-wish-i-had-known-these-thirty-concepts-and-sixty-lesson-tips-before-i-took-the-edx-aws-cef1be69e862) - October 14, 2020.
+ 1. [I Wish I had Known these Thirty Concepts and Sixty Lesson Tips Before I Took the edX AWS Developer Course](https://dr-bruce-cottman.medium.com/i-wish-i-had-known-these-thirty-concepts-and-sixty-lesson-tips-before-i-took-the-edx-aws-cef1be69e862) - Published in [Anlkytics Vidhya] (https://medium.com/analytics-vidhya)- October 14, 2020
 
+
+1. [edX AWS SageMaker: I am not Proud About Getting 100% on the Final Exam] (https://medium.com/me/stats/post/abe243f21a5d) - Published in Level Up Coding - October 19, 2020.
+
+1. []
+
+1. []
+
+1. []
+
+1. []
+
+1. []
