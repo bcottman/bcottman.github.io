@@ -85,5 +85,5 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [7 Hints and 10 Tips for Coursera Essential Google Cloud Infrastructure: Foundation](https://dr-bruce-cottman.medium.com/i-wish-i-had-known-these-thirty-concepts-and-sixty-lesson-tips-before-i-took-the-edx-aws-cef1be69e862) - Published in [Analtyics Vidhya](https://medium.com/analytics-vidhya)- November 5, 2020.
 
-1. [Guide for Choosing A Cloud Vendor](https://medium.com/me/stats/post/e14cff94dcf9) - Published in [The Startup](https://medium.com/swlh) - November 2020.
+1. [Guide to Equivalent Services From Three Cloud Vendors](https://dr-bruce-cottman.medium.com/guide-to-equivalent-services-from-three-cloud-vendors-715bc28e9eab) - Published in []() - November 23, 2020.
 
