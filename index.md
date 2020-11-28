@@ -87,5 +87,5 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Guide to Equivalent Services From Three Cloud Vendors](https://dr-bruce-cottman.medium.com/guide-to-equivalent-services-from-three-cloud-vendors-715bc28e9eab) - Published in [Levelup Coding](https://levelup.gitconnected.com) - November 23, 2020.
 
-1. [The Failure of Moving Machine Learning Applications into Production](https://dr-bruce-cottman.medium.com/the-failure-of-moving-machine-learning-applications-into-production-3ff48b28f591) - Published in []() - November 26, 2020.
+1. [Avoid These Data Pitfalls When Moving Machine Learning Applications Into Production](https://dr-bruce-cottman.medium.com/the-failure-of-moving-machine-learning-applications-into-production-3ff48b28f591) - Published in [The Startup](https://medium.com/swlh) - November 26, 2020.
 
