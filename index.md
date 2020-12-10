@@ -89,3 +89,4 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Avoid These Data Pitfalls When Moving Machine Learning Applications Into Production](https://dr-bruce-cottman.medium.com/the-failure-of-moving-machine-learning-applications-into-production-3ff48b28f591) - Published in [The Startup](https://medium.com/swlh) - November 26, 2020.
 
+1. [10 Pitfalls and 11 Best-Practices for the Design Phase of a Machine Learning Application Project](https://dr-bruce-cottman.medium.com/10-pitfalls-and-11-best-practices-for-the-design-phase-of-a-machine-learning-application-project-66c3d599f87a0 ) - Published in )  - December 10, 2020.
