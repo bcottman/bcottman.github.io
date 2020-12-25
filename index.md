@@ -91,4 +91,4 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [10 Pitfalls and 11 Best-Practices for the Design Phase of a Machine Learning Application Project](https://dr-bruce-cottman.medium.com/10-pitfalls-and-11-best-practices-for-the-design-phase-of-a-machine-learning-application-project-66c3d599f87a0 ) - Published in [towardsdatascience.com](https://towardsdatascience.com)  - December 10, 2020.
 
-1. [26+ Useful Machine Learning Blogs and Newsletters to Increase your Productivity](https://dr-bruce-cottman.medium.com/26-useful-machine-learning-blogs-and-newsletters-to-increase-your-productivity-a5c4d171eaa4)  Published  December 25, 2020.
+1. [26+ Useful Machine Learning Blogs and Newsletters to Increase your Productivity](https://dr-bruce-cottman.medium.com/26-useful-machine-learning-blogs-and-newsletters-to-increase-your-productivity-a5c4d171eaa4)  Published -  December 25, 2020.
