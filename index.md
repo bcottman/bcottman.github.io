@@ -40,8 +40,6 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [11 Refactoring Tasks to Up Your Game.](https://medium.com/@dr.bruce.cottman/11-refactoring-tasks-to-up-your-game-52c39bfe0183)  Published in towardsdatascience.com - March 20, 2020.
 
-1. [How we Used Machine Learning in the Era of COVID-19.](https://medium.com/@dr.bruce.cottman/how-we-used-machine-learning-in-the-era-of-covid-19-c29ba64b07c5) Published in towardsdatascience.com - March 25, 2020.
-
 1. [12 Examples of How To Write Better Code Using @dataclass.](https://towardsdatascience.com/12-examples-of-how-to-write-better-code-using-dataclass-d7c121ee0239) Published in towardsdatascience.com - March 31, 2020.
 
 1. [Adding Jupyter Notebook Extensions to a Docker Image.](https://towardsdatascience.com/adding-jupyter-notebook-extensions-to-a-docker-image-851bc2601ca3) Published in towardsdatascience.com - April 2, 2020.
@@ -60,7 +58,6 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [S\*\*\*e of Master/S\*\*\*e is the S-word of Technology.](https://medium.com/me/stats/post/f64cb3a6697a) - July 13. 2020.
 
-1. [Coronavirus strains may result in more pandemics.](https://medium.com/@dr.bruce.cottman/coronavirus-strains-may-result-in-more-pandemics-269076eef1c9)  - July 20. 2020.
 
 1. [Natural Language Processing in Production: Creating Docker Images.](https://medium.com/@dr.bruce.cottman/natural-language-processing-in-production-creating-docker-images-84bd86e161b4). Published in [Machine Learning](https://medium.com/topic/machine-learning) and [Programming](https://medium.com/topic/programming)- August 17, 2020.
 
@@ -91,4 +88,6 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [10 Pitfalls and 11 Best-Practices for the Design Phase of a Machine Learning Application Project](https://dr-bruce-cottman.medium.com/10-pitfalls-and-11-best-practices-for-the-design-phase-of-a-machine-learning-application-project-66c3d599f87a0 ) - Published in [towardsdatascience.com](https://towardsdatascience.com)  - December 10, 2020.
 
-1. [26+ Useful Machine Learning Blogs and Newsletters to Increase your Productivity](https://dr-bruce-cottman.medium.com/26-useful-machine-learning-blogs-and-newsletters-to-increase-your-productivity-a5c4d171eaa4)  Published -  December 25, 2020.
+1. [26+ Useful Machine Learning Blogs and Newsletters to Increase your Productivity](https://dr-bruce-cottman.medium.com/26-useful-machine-learning-blogs-and-newsletters-to-increase-your-productivity-a5c4d171eaa4)  Published in  [The Startup](https://medium.com/swlh) -  December 25, 2020.
+
+1. Published -  December 29, 2020.
