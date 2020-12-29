@@ -58,7 +58,6 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [S\*\*\*e of Master/S\*\*\*e is the S-word of Technology.](https://medium.com/me/stats/post/f64cb3a6697a) - July 13. 2020.
 
-
 1. [Natural Language Processing in Production: Creating Docker Images.](https://medium.com/@dr.bruce.cottman/natural-language-processing-in-production-creating-docker-images-84bd86e161b4). Published in [Machine Learning](https://medium.com/topic/machine-learning) and [Programming](https://medium.com/topic/programming)- August 17, 2020.
 
 1. [Converting PDF and Gutenberg Document Formats into Text: Natural Language Processing in Production.](https://towardsdatascience.com/natural-language-processing-in-production-converting-pdf-and-gutenberg-document-formats-into-text-9e7cd3046b33) Published in [Machine Learning](https://medium.com/topic/machine-learning) and [Programming](https://medium.com/topic/programming) - August 24, 2020.
@@ -75,7 +74,6 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
  
  1. [I Wish I had Known these Thirty Concepts and Sixty Lesson Tips Before I Took the edX AWS Developer Course](https://dr-bruce-cottman.medium.com/i-wish-i-had-known-these-thirty-concepts-and-sixty-lesson-tips-before-i-took-the-edx-aws-cef1be69e862) - Published in [Anlkytics Vidhya] (https://medium.com/analytics-vidhya)- October 14, 2020
 
-
 1. [edX AWS SageMaker: I am not Proud About Getting 100% on the Final Exam](https://medium.com/me/stats/post/abe243f21a5d) - Published in Level Up Coding - October 19, 2020.
 
 1. [Hints and Tips for Coursera Google Cloud Platform Fundamentals: Core Infrastructure](https://dr-bruce-cottman.medium.com/i-wish-i-had-known-these-thirty-concepts-and-sixty-lesson-tips-before-i-took-the-edx-aws-cef1be69e862) - Published in [Analtyics Vidhya] (https://medium.com/analytics-vidhya)- October 28, 2020.
@@ -90,4 +88,4 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [26+ Useful Machine Learning Blogs and Newsletters to Increase your Productivity](https://dr-bruce-cottman.medium.com/26-useful-machine-learning-blogs-and-newsletters-to-increase-your-productivity-a5c4d171eaa4)  Published in  [The Startup](https://medium.com/swlh) -  December 25, 2020.
 
-1. Published -  December 29, 2020.
+1.[Three pathways the RNA-based COVID-19 Mutates](https://dr-bruce-cottman.medium.com/three-pathways-the-rna-based-covid-19-mutates-ccd41dbdeacd) Published -  December 29, 2020.
