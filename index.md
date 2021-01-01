@@ -88,4 +88,7 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [26+ Useful Machine Learning Blogs and Newsletters to Increase your Productivity](https://dr-bruce-cottman.medium.com/26-useful-machine-learning-blogs-and-newsletters-to-increase-your-productivity-a5c4d171eaa4)  Published in  [The Startup](https://medium.com/swlh) -  December 25, 2020.
 
-1. [Three pathways the RNA-based COVID-19 Mutates](https://dr-bruce-cottman.medium.com/three-pathways-the-rna-based-covid-19-mutates-ccd41dbdeacd) Published -  December 29, 2020.
+1. [Three pathways the RNA-based COVID-19 Mutates](https://dr-bruce-cottman.medium.com/three-pathways-the-rna-based-covid-19-mutates-ccd41dbdeacd)  Published in  [The Startup](https://medium.com/swlh) -  December 29, 2020.
+
+1. [Thirty-two Python Tools and Package Libraries to Increase your Machine Learning Productivity](https://dr-bruce-cottman.medium.com/thirty-two-python-tools-and-package-libraries-to-increase-your-machine-learning-productivity-fc7bf785c5c2) Published -  January 1, 2021.
+
