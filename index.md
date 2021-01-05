@@ -90,5 +90,5 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Three pathways the RNA-based COVID-19 Mutates](https://dr-bruce-cottman.medium.com/three-pathways-the-rna-based-covid-19-mutates-ccd41dbdeacd)  Published in  [The Startup](https://medium.com/swlh) -  December 29, 2020.
 
-1. [Thirty-two Python Tools and Package Libraries to Increase your Machine Learning Productivity](https://dr-bruce-cottman.medium.com/thirty-two-python-tools-and-package-libraries-to-increase-your-machine-learning-productivity-fc7bf785c5c2) Published ibb towardsdatascience.con -  January 1, 2021.
+1. [Thirty-two Python Tools and Package Libraries to Increase your Machine Learning Productivity](https://dr-bruce-cottman.medium.com/thirty-two-python-tools-and-package-libraries-to-increase-your-machine-learning-productivity-fc7bf785c5c2) Published in  [towardsdatascience.com](https://towardsdatascience.com -  January 1, 2021.
 
