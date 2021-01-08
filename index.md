@@ -92,5 +92,5 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Thirty-two Python Tools and Package Libraries to Increase your Machine Learning Productivity](https://dr-bruce-cottman.medium.com/thirty-two-python-tools-and-package-libraries-to-increase-your-machine-learning-productivity-fc7bf785c5c2) Published in  [towardsdatascience.com](https://towardsdatascience.com -  January 1, 2021.
 
-[Ten Fast Text Preprocessing Benchmarks on CPU, GPU, and TPU](https://towardsdatascience.com/ten-fast-text-preprocessing-benchmarks-on-cpu-gpu-and-tpu-2cd2653582f6) Published in [towardsdatascience.com](https://towardsdatascience.com -  January 8, 2021.
+1. [Ten Fast Text Preprocessing Benchmarks on CPU, GPU, and TPU](https://towardsdatascience.com/ten-fast-text-preprocessing-benchmarks-on-cpu-gpu-and-tpu-2cd2653582f6) Published in [towardsdatascience.com](https://towardsdatascience.com -  January 8, 2021.
 
