@@ -94,4 +94,4 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Ten Fast Text Preprocessing Benchmarks on CPU, GPU, and TPU](https://towardsdatascience.com/ten-fast-text-preprocessing-benchm -  January 8, 2021.arks-on-cpu-gpu-and-tpu-2cd2653582f6)  Published in [towardsdatascience.com](https://towardsdatascience.com) -  Published January 15, 2021.
 
-1. [Stop Calling Machine Learning Operations Execution Flow a Pipeline](https://dr-bruce-cottman.medium.com/stop-calling-machine-learning-operations-execution-flow-a-pipeline-94e55dd45366) -  January 15, 2021.
+1. [Stop Calling Machine Learning Operations Execution Flow a Pipeline](https://dr-bruce-cottman.medium.com/stop-calling-machine-learning-operations-execution-flow-a-pipeline-94e55dd45366) - Published in [The Startup](https://medium.com/swlh) -  January 15, 2021.
