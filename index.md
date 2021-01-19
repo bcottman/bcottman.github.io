@@ -92,6 +92,8 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Thirty-two Python Tools and Package Libraries to Increase your Machine Learning Productivity](https://dr-bruce-cottman.medium.com/thirty-two-python-tools-and-package-libraries-to-increase-your-machine-learning-productivity-fc7bf785c5c2) Published in  [towardsdatascience.com](https://towardsdatascience.com) -  January 1, 2021.
 
-1. [Ten Fast Text Preprocessing Benchmarks on CPU, GPU, and TPU](https://towardsdatascience.com/ten-fast-text-preprocessing-benchm -  January 8, 2021.arks-on-cpu-gpu-and-tpu-2cd2653582f6)  Published in [towardsdatascience.com](https://towardsdatascience.com) -  Published January 15, 2021.
+1. [Ten Fast Text Preprocessing Benchmarks on CPU, GPU, and TPU](https://towardsdatascience.com/ten-fast-text-preprocessing-benchmarks-on-cpu-gpu-and-tpu-2cd2653582f6)  Published in [towardsdatascience.com](https://towardsdatascience.com) -  January 8, 2021.
 
 1. [Stop Calling Machine Learning Operations Execution Flow a Pipeline](https://dr-bruce-cottman.medium.com/stop-calling-machine-learning-operations-execution-flow-a-pipeline-94e55dd45366) - Published in [The Startup](https://medium.com/swlh) -  January 15, 2021.
+
+1. [Sixteen Python Code Utilities for Colab](https://medium.com/swlh/sixteen-python-code-utilities-for-colab-3077a6df364c) - Published in [The Startup](https://medium.com/swlh) -  January 18, 2021.
