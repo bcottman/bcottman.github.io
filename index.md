@@ -97,3 +97,5 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [Stop Calling Machine Learning Operations Execution Flow a Pipeline](https://dr-bruce-cottman.medium.com/stop-calling-machine-learning-operations-execution-flow-a-pipeline-94e55dd45366) - Published in [The Startup](https://medium.com/swlh) -  January 15, 2021.
 
 1. [Sixteen Python Code Utilities for Colab](https://medium.com/swlh/sixteen-python-code-utilities-for-colab-3077a6df364c) - Published in [The Startup](https://medium.com/swlh) -  January 18, 2021.
+
+1. [MLOps is Complex.](https://dr-bruce-cottman.medium.com/mlops-is-complex-1cf82b366de8). Published January 29, 2021.
