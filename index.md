@@ -101,3 +101,5 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [Divide and Conquer Simplifies MLOps.](https://medium.com/swlh/divide-and-conquer-simplifies-mlops-17ded6ce08bc). -  Published in [The Startup](https://medium.com/swlh) - January 29, 2021.
 
 1. [Write better articles with this tool.](https://dr-bruce-cottman.medium.com/write-better-articles-with-this-tool-f275d6b258eb) -  Published Feburary 6, 2021.
+
+1. [Seventeen Coding Tools for your Python Developer Sandbox](https://dr-bruce-cottman.medium.com/11-tools-for-your-python-project-lifecycle-in-the-sandbox-be10c7803abc) -  Published Feburary 7, 2021.
