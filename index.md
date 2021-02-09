@@ -72,7 +72,7 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
  
  1. [A Fantastic Way to Programmatically Create Diagrams for Different Cloud Architectures.](https://medium.com/me/stats/post/33b32a3d6cdc) Published in [Better Programming]()- October 11, 2020.
  
- 1. [I Wish I had Known these Thirty Concepts and Sixty Lesson Tips Before I Took the edX AWS Developer Course](https://dr-bruce-cottman.medium.com/i-wish-i-had-known-these-thirty-concepts-and-sixty-lesson-tips-before-i-took-the-edx-aws-cef1be69e862) - Published in [Anlkytics Vidhya] (https://medium.com/analytics-vidhya)- October 14, 2020
+ 1. [I Wish I had Known these Thirty Concepts and Sixty Lesson Tips Before I Took the edX AWS Developer Course](https://dr-bruce-cottman.medium.com/i-wish-i-had-known-these-thirty-concepts-and-sixty-lesson-tips-before-i-took-the-edx-aws-cef1be69e862) - Published in [Analtyics Vidhya] (https://medium.com/analytics-vidhya)- October 14, 2020
 
 1. [edX AWS SageMaker: I am not Proud About Getting 100% on the Final Exam](https://medium.com/me/stats/post/abe243f21a5d) - Published in Level Up Coding - October 19, 2020.
 
@@ -102,4 +102,4 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Write better articles with this tool.](https://dr-bruce-cottman.medium.com/write-better-articles-with-this-tool-f275d6b258eb) -  Published Feburary 6, 2021.
 
-1. [Seventeen Coding Tools for your Python Developer Sandbox](https://dr-bruce-cottman.medium.com/seventeen-coding-tools-for-your-python-developer-sandbox-35d033c3075a) -  Published Feburary 7, 2021.  
+1. [Seventeen Coding Tools for your Python Developer Sandbox](https://medium.com/better-programming/seventeen-coding-tools-for-your-python-developer-sandbox-35d033c3075a) -  Published in [Better Programming]() - Feburary 8, 2021.  
