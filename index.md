@@ -103,3 +103,5 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [Write better articles with this tool.](https://dr-bruce-cottman.medium.com/write-better-articles-with-this-tool-f275d6b258eb) -  Published Feburary 6, 2021.
 
 1. [Seventeen Coding Tools for your Python Developer Sandbox](https://medium.com/better-programming/seventeen-coding-tools-for-your-python-developer-sandbox-35d033c3075a) -  Published in [Better Programming]() - Feburary 8, 2021.  
+
+1. [Streamlit Kills Flask!](https://dr-bruce-cottman.medium.com/streamlit-kills-flask-1773c33fdc88) -  Published in [Better Programming]() - Feburary 11, 2021.  
