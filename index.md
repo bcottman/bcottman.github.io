@@ -108,4 +108,4 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Transform Your Favorite Python IDE Into a DevOps Tool.](https://medium.com/better-programming/seventeen-coding-tools-for-your-python-developer-sandbox-35d033c3075a) -  Published in [Better Programming]() - Feburary 17, 2021.  
 
-1. [Twelve Properties Rated of Four Tools of the MLOps: DevOps Ecosystem.]() - Feburary 24, 2021. 
+1. [Twelve Properties Rated of Four Tools of the MLOps: DevOps Ecosystem.](https://dr-bruce-cottman.medium.com/twelve-properties-rated-of-four-tools-of-the-mlops-devops-ecosystem-cc231ec3d9c7) - Feburary 24, 2021. 
