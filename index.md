@@ -114,4 +114,4 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Google Colab Enables Team Remote Work.](https://dr-bruce-cottman.medium.com/google-colab-enables-team-remote-work-acbb6e151c76)  -  Published in [Better Programming](https://betterprogramming.pub/) - Feburary 28, 2021.
 
-1. [Ten PyCharm Features for Python Projects.](https://itnext.io/ten-pycharm-features-for-python-projects-35c6029cf0d6) -  Published in [ITNext](\https://itnext.io/) - March 2, 2021.
+1. [Ten PyCharm Features for Python Projects.](https://itnext.io/ten-pycharm-features-for-python-projects-35c6029cf0d6) -  Published in [ITNext]\https://itnext.io/) - March 2, 2021.
