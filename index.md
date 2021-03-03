@@ -104,13 +104,13 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [18 Coding Tools for Your Python Developer Sandbox.](https://medium.com/better-programming/seventeen-coding-tools-for-your-python-developer-sandbox-35d033c3075a) -  Published in [Better Programming](https://betterprogramming.pub/) - Feburary 8, 2021.  
 
-1. [My First Attempt to Speed up Python with Golang.](https://python.plainenglish.io/my-first-attempt-to-speed-up-python-with-golang-16c1f127dc1e)[python in plain english.](https://python.plainenglish.io/)  - Feburary 10, 2021.  
+1. [My First Attempt to Speed up Python with Golang.](https://python.plainenglish.io/my-first-attempt-to-speed-up-python-with-golang-16c1f127dc1e)-  Published in - [python in plain english.](https://python.plainenglish.io/)  - Feburary 10, 2021.  
 
 1. [Streamlit Kills Flask!](https://dr-bruce-cottman.medium.com/streamlit-kills-flask-1773c33fdc88) -  Published in [Better Programming](https://betterprogramming.pub/) - Feburary 11, 2021.  
 
 1. [Transform Your Favorite Python IDE Into a DevOps Tool.](https://medium.com/better-programming/seventeen-coding-tools-for-your-python-developer-sandbox-35d033c3075a) -  Published in [Better Programming](https://betterprogramming.pub/) - Feburary 17, 2021.  
 
-1. [Twelve Properties Rated of Four Tools of the MLOps: DevOps Ecosystem.](https://dr-bruce-cottman.medium.com/twelve-properties-rated-of-four-tools-of-the-mlops-devops-ecosystem-cc231ec3d9c7) -  PPublished in [towardsdatascience.com](https://towardsdatascience.com)  - Feburary 24, 2021. 
+1. [Twelve Properties Rated of Four Tools of the MLOps: DevOps Ecosystem.](https://dr-bruce-cottman.medium.com/twelve-properties-rated-of-four-tools-of-the-mlops-devops-ecosystem-cc231ec3d9c7) -  Published in [towardsdatascience.com](https://towardsdatascience.com)  - Feburary 24, 2021. 
 
 1. [Google Colab Enables Team Remote Work.](https://dr-bruce-cottman.medium.com/google-colab-enables-team-remote-work-acbb6e151c76)  -  Published in [Better Programming](https://betterprogramming.pub/) - Feburary 28, 2021.
 
