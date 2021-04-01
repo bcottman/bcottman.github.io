@@ -25,8 +25,6 @@ Other publications include Approximately 20 final reports by Army, Darpa, NASA, 
 
 1. [Create Your Blog Site for Free.](https://medium.com/@dr.bruce.cottman/create-your-free-blog-site-204a5e27f197) Published in towardsdatascience.com - Jan 24, 2020.
 
-1. [Future Proof Your Python code.](https://medium.com/swlh/future-proof-your-python-code-20ef2b75e9f5) Published in theStartup.com - Feb 9, 2020.
-
 1. [Tensorflow for Swift is a Machine Learning Framework on Android and iPhone.](https://medium.com/@dr.bruce.cottman/tensorflow-for-swift-you-have-got-to-be-kidding-d8fc5c547430)
 Published In Noteworthy - The Journal Blog Feb 14, 2020.
  
@@ -118,4 +116,6 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Thirty-Two Advanced Techniques For Better Python Code.](https://dr-bruce-cottman.medium.com/thirty-two-advanced-techniques-for-better-python-code-6717226eb611) -  Published March 4, 2021.
 
-1. [Six Datatype Transformer Functions for Data Pre-Processing for Machine Learning](https://towardsdatascience.com/six-datatype-transformer-functions-for-data-pre-processing-for-machine-learning-eb9abcce68cd) - Published in [towardsdatascience.com](https://towardsdatascience.com)  - March 25, 2021
+1. [Six Datatype Transformer Functions for Data Pre-Processing for Machine Learning](https://towardsdatascience.com/six-datatype-transformer-functions-for-data-pre-processing-for-machine-learning-eb9abcce68cd) - Published in [towardsdatascience.com](https://towardsdatascience.com)  - March 25, 2021.
+
+1. [Twenty Type Hinting Techniques and Tools For Better Python Code.](https://dr-bruce-cottman.medium.com/twenty-type-hinting-techniques-and-tools-for-better-python-code-e877e0b0c679) - April 1, 2021.
