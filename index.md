@@ -118,4 +118,4 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Six Datatype Transformer Functions for Data Pre-Processing for Machine Learning](https://towardsdatascience.com/six-datatype-transformer-functions-for-data-pre-processing-for-machine-learning-eb9abcce68cd) - Published in [towardsdatascience.com](https://towardsdatascience.com)  - March 25, 2021.
 
-1. [Twenty Type Hinting Techniques and Tools For Better Python Code.](https://dr-bruce-cottman.medium.com/twenty-type-hinting-techniques-and-tools-for-better-python-code-e877e0b0c679) - April 1, 2021.
+1. [Twenty Type Hinting Techniques and Tools For Better Python Code.](https://betterprogramming.pub/twenty-type-hinting-techniques-and-tools-for-better-python-code-e877e0b0c679). Published in [Better Programming](https://betterprogramming.pub/) - April 2, 2021.
