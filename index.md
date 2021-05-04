@@ -122,4 +122,4 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Twenty-Three Essential Commands for the best experience with your Minikube Installation](https://dr-bruce-cottman.medium.com/twenty-three-essential-commands-for-the-best-experience-with-your-minikube-installation-4569bf247745) - April 21, 2021.
 
-1. [How to Assign Cloud Virtual Machines to a Kubernetes Node](https://itnext.io/how-to-assign-cloud-virtual-machines-to-a-kubernetes-node-277b59834d69] Published in [ITNext](https://itnext.io/) - May 1, 2021. 
+1. [How to Assign Cloud Virtual Machines to a Kubernetes Node](https://itnext.io/how-to-assign-cloud-virtual-machines-to-a-kubernetes-node-277b59834d69) Published in [ITNext](https://itnext.io/) - May 1, 2021. 
