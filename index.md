@@ -126,4 +126,4 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Thirty-One Checks For Different Levels of Machine Learning Operation Maturity](https://dr-bruce-cottman.medium.com/thirty-one-checks-for-different-levels-of-machine-learning-operation-maturity-2ba19cc87be9) - Published in [towardsdatascience.com](https://towardsdatascience.com) May 13, 2021. 
 
- 1. [A Natural Language Processing Benchmark Framework](A Natural Language Processing Benchmark Framework) Published in [mlearning-ai](https://medium.com/mlearning-ai) May 14, 2021.
+ 1. [A Natural Language Processing Benchmark Framework](https://medium.com/mlearning-ai/a-natural-language-processing-benchmark-framework-9084e042f128) Published in [mlearning-ai](https://medium.com/mlearning-ai) May 14, 2021.
