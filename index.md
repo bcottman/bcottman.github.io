@@ -132,5 +132,4 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Six Advanced Decorator Patterns](https://dr-bruce-cottman.medium.com/six-advanced-decorator-patterns-5ffe67552691) Published in [Better Programming](https://betterprogramming.pub/)- June 1, 2021.
 
-1. [Nine @dataclass Techniques for Better Python Code](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in
-- June 7, 2021.
+1. [Nine @dataclass Techniques for Better Python Code](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in  June 7, 2021.
