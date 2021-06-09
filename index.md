@@ -134,4 +134,4 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Nine @dataclass Techniques for Better Python Code](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in Published in [Better Programming](https://betterprogramming.pub/) June 7, 2021.
 
-1.[More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published June 9, 2021.
+1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published June 9, 2021.
