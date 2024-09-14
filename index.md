@@ -1,4 +1,4 @@
- ## PUBLICATIONS (Selected)
+-- ## PUBLICATIONS (Selected)
 
 “Solving the Data Interoperability Problem using a Universal Data Access Broker”. Mike Higgs & Bruce H. Cottman, IEEE Data Engineering Bulletin, September 1998. https://dblp.org/db/journals/debu/debu21
 
@@ -136,10 +136,10 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published June 9, 2021.
 
-1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published June 9, 2021.
+1. [Part 1: Eight Major Methods For FineTuning an LLM.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published June 6, 2023.
 
 
-Part 1: Eight Major Methods For FineTuning an LLM
+
 I delve into eight methods that use targeted parameter fine-tuning of LLMs. I discuss in detail Gradient-based, LoRA, QLoRA, and four…
 Published 
 on Jun 6, 2023
