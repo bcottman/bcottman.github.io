@@ -132,42 +132,18 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Six Advanced Decorator Patterns](https://dr-bruce-cottman.medium.com/six-advanced-decorator-patterns-5ffe67552691) Published in [Better Programming](https://betterprogramming.pub/)- June 1, 2021.
 
-1. [Nine @dataclass Techniques for Better Python Code](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in Published in [Better Programming](https://betterprogramming.pub/) June 7, 2021.
+1. [Nine @dataclass Techniques for Better Python Code](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in [Better Programming](https://betterprogramming.pub/) June 7, 2021.
 
-1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published June 9, 2021.
+1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) April 18, 2023.
+
+1. [SOptimizing My Rust Development Environment](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
+
+1. [Successful Object-Oriented Programming (OOP) in Rust: Mastering Five Critical Concepts From Python.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
 
 1. [Part 1: Eight Major Methods For FineTuning an LLM.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published June 6, 2023.
 
 
 
-I delve into eight methods that use targeted parameter fine-tuning of LLMs. I discuss in detail Gradient-based, LoRA, QLoRA, and four…
-Published 
-on Jun 6, 2023
-·
-14 min read
-
-
-
-Successful Object-Oriented Programming (OOP) in Rust: Mastering Five Critical Concepts From Python
-Let’s closely look at the defining traits of Python’s object-oriented programming and assess how they match up with the Rust language
-Published 
-on May 9, 2023
-·
-21 min read
-
-·
-In Better Programming
-
-
-Optimizing My Rust Development Environment
-We were commanded by the powers that be for our team to be the "guinea pig" that migrates to Rust. My approach entailed configuring various…
-Published 
-on Apr 18, 2023
-·
-14 min read
-
-·
-In Better Programming
 
 
 ChatGPT Spokesperson Reveals Bold Investments in Three Game-Changing Technologies
