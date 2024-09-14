@@ -134,106 +134,31 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Nine @dataclass Techniques for Better Python Code](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in [Better Programming](https://betterprogramming.pub/) June 7, 2021.
 
+ 
+1. [Improve Your Exploratory Data Analysis for Tabular Data: Part 1.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on March 1, 2023.
+
+ 1. [Part 1: Eight Major Methods For FineTuning an LLM.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on Apr 9, 2023.
+
 1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) April 18, 2023.
 
-1. [SOptimizing My Rust Development Environment](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
+1. [Optimizing My Rust Development Environment](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
 
 1. [Successful Object-Oriented Programming (OOP) in Rust: Mastering Five Critical Concepts From Python.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
 
-1. [Part 1: Eight Major Methods For FineTuning an LLM.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published June 6, 2023.
+
+
+1. [Forty-Seven Best Practice Refactoring Techniques for Better Python Codes.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) Oct 8, 2022.
+
+1. [A Stepped Approach for Balancing and Augmenting Structured Data for Classification]()  - Published in [towardsdatascience.com](https://towardsdatascience.com) Oct 24, 2022.
+
+1. [The Best Way We Create and Manage Multiple Versions of Pythons.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) Dec 15, 2022.
+
+1. [9 Python @dataclass Best Practices To Improve the Development Process.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/)Jan 2, 2023.
+
+1. [Six Steps to Automate Kaggle in Python for Safe and Fast Submissions.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) Jan 7, 2023
 
 
 
-
-
-ChatGPT Spokesperson Reveals Bold Investments in Three Game-Changing Technologies
-Sam Altman is known as the CEO of OpenAI, the company famous for the breakthrough Artificial Intelligence tools GPT 3.0, GPT 3.5, and GPT…
-Published 
-on Apr 9, 2023
-·
-7 min read
-
-·
-In Geek Culture
-
-
-Eight of my favorite Blog Picture Editing, Drawing, Sketching, and Animation Tools
-As bloggers, we know that the quality of our content hinges on the power of its accompanying visuals. Don't settle for anything less than…
-Published 
-on Mar 21, 2023
-·
-7 min read
-
-·
-In Geek Culture
-
-
-Improve Your Exploratory Data Analysis for Tabular Data: Part 1
-I discuss why I went from five to two plot types in my preliminary EDA. I also have created a Github for all code in this blog. The GitHub…
-Published 
-on Mar 1, 2023
-·
-17 min read
-
-
-
-Six Steps to Automate Kaggle in Python for Safe and Fast Submissions
-I show you the Python code for the six steps of a Kaggle lifecycle automation, from getting the Kaggle key to dataset download to…
-Published 
-on Jan 7, 2023
-·
-4 min read
-
-
-
-9 Python @dataclass Best Practices To Improve the Development Process
-An exploration of the benefits of @dataclass
-Published 
-on Jan 2, 2023
-·
-11 min read
-
-·
-In Better Programming
-
-
-The Best Way We Create and Manage Multiple Versions of Python
-A complete setup guide for pyenv
-Published 
-on Dec 15, 2022
-·
-7 min read
-
-·
-In Better Programming
-·
-Unpublished changes
-
-
-A Stepped Approach for Balancing and Augmenting Structured Data for Classification
-Data augmentation generates simulated data from a dataset. The more data we have, the better the chosen learner will be at classification…
-Published 
-on Oct 24, 2022
-·
-10 min read
-
-·
-In Towards Data Science
-·
-Unpublished changes
-
-
-Forty-Seven Best Practice Refactoring Techniques for Better Python Code
-Techniques and code snippets culled from my colleagues for Python documentation, coding, testing, verification, and continuous integration
-Published 
-on Oct 8, 2022
-·
-11 min read
-
-·
-In Better Programming
-·
-Unpublished changes
 
 
 How does the Fed Bank Affect the U.S. Economy and Asset Prices?
@@ -241,22 +166,14 @@ There exists unusually high volatility in the asset market because of the Federa
 Published 
 on Jul 20, 2022
 ·
-8 min read
-
-·
 In DataDrivenInvestor
-·
-Unpublished changes
+
 
 
 How does Inflation Quantitatively Affect the Fed Rate and Cause Bargain Price Stocks?
 The correlation between inflation (CPI), the Fed Rate, and other U.S. economic indexes is measured. Our historical analysis indicates that…
 Published 
 on Jul 8, 2022
-·
-12 min read
-
-·
 In DataDrivenInvestor
 
 
@@ -264,13 +181,7 @@ Four Levels of Machine Learning Operation Maturity for Cloud Computing
 A checklist to determine your Machine Learning Operation (MLOps) maturity level.
 Published 
 on Jul 6, 2022
-·
-8 min read
 
-·
-In FAUN — Developer Community 🐾
-·
-Unpublished changes
 
 
 Four High-Performance Asset Risk Methods to Add to a Pandas DataFrame
@@ -278,30 +189,17 @@ A step-by-step approach for defining by formula and creating four different high
 Published 
 on Jun 22, 2022
 ·
-10 min read
-
-·
-In FAUN — Developer Community 🐾
-
 
 Four Docker Containers for the Natural Language Processing Lifecycle
 Docker images for the Natural Language Processing lifecycle of development, test, stage, and production
 Published 
 on Jun 22, 2022
-·
-6 min read
-
-·
-In FAUN — Developer Community 🐾
 
 
 You Want Company and Country Financial Data into a Python Pandas Dataframe
 Shown is a method for retrieving time-dependent asset prices and worldwide economic data.
 Published 
 on Jun 21, 2022
-·
-6 min read
-
 ·
 In DataDrivenInvestor
 
@@ -313,18 +211,12 @@ on Jun 4, 2022
 ·
 7 min read
 
-·
-In FAUN — Developer Community 🐾
-
 
 The Five Steps for Determining Returns From Asset Price Historical Data Using Python
 A step-by-step approach for finding and analyzing the returns of a market-exchange asset
 Published 
 on May 2, 2022
-·
-11 min read
 
-·
 In DataDrivenInvestor
 
 
@@ -343,10 +235,6 @@ How to Play the Best Casino in the World
 This house pays out 9% per year.
 Published 
 on Mar 23, 2022
-·
-13 min read
-
-·
 In DataDrivenInvestor
 
 
@@ -354,10 +242,6 @@ The Financial Advisor Could Go the Way of the Travel Agency — Extinct
 Portfolio managers are the bedrock of indexes. I hope they do not, as well, die off.
 Published 
 on Mar 21, 2022
-·
-14 min read
-
-·
 In DataDrivenInvestor
 
 
@@ -365,13 +249,8 @@ Will Inflation Cause A Financial Market Bubble Burst or a Slow Downturn?
 I argue that the market is efficient and that prices reflect the future performance of market instruments. All upturns and downturns of…
 Published 
 on Feb 1, 2022
-·
-12 min read
 
-·
 In DataDrivenInvestor
-·
-Unpublished changes
 
 
 Which Will Have the Greatest Impact On Your Life: Biotech mRNA or Pharma?
@@ -380,8 +259,6 @@ Published
 on Nov 30, 2021
 ·
 10 min read
-
-·
 In DataDrivenInvestor
 
 
