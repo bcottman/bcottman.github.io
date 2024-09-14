@@ -135,3 +135,447 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [Nine @dataclass Techniques for Better Python Code](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in Published in [Better Programming](https://betterprogramming.pub/) June 7, 2021.
 
 1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published June 9, 2021.
+
+1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published June 9, 2021.
+
+
+Part 1: Eight Major Methods For FineTuning an LLM
+I delve into eight methods that use targeted parameter fine-tuning of LLMs. I discuss in detail Gradient-based, LoRA, QLoRA, and four…
+Published 
+on Jun 6, 2023
+·
+14 min read
+
+
+
+Successful Object-Oriented Programming (OOP) in Rust: Mastering Five Critical Concepts From Python
+Let’s closely look at the defining traits of Python’s object-oriented programming and assess how they match up with the Rust language
+Published 
+on May 9, 2023
+·
+21 min read
+
+·
+In Better Programming
+
+
+Optimizing My Rust Development Environment
+We were commanded by the powers that be for our team to be the "guinea pig" that migrates to Rust. My approach entailed configuring various…
+Published 
+on Apr 18, 2023
+·
+14 min read
+
+·
+In Better Programming
+
+
+ChatGPT Spokesperson Reveals Bold Investments in Three Game-Changing Technologies
+Sam Altman is known as the CEO of OpenAI, the company famous for the breakthrough Artificial Intelligence tools GPT 3.0, GPT 3.5, and GPT…
+Published 
+on Apr 9, 2023
+·
+7 min read
+
+·
+In Geek Culture
+
+
+Eight of my favorite Blog Picture Editing, Drawing, Sketching, and Animation Tools
+As bloggers, we know that the quality of our content hinges on the power of its accompanying visuals. Don't settle for anything less than…
+Published 
+on Mar 21, 2023
+·
+7 min read
+
+·
+In Geek Culture
+
+
+Improve Your Exploratory Data Analysis for Tabular Data: Part 1
+I discuss why I went from five to two plot types in my preliminary EDA. I also have created a Github for all code in this blog. The GitHub…
+Published 
+on Mar 1, 2023
+·
+17 min read
+
+
+
+Six Steps to Automate Kaggle in Python for Safe and Fast Submissions
+I show you the Python code for the six steps of a Kaggle lifecycle automation, from getting the Kaggle key to dataset download to…
+Published 
+on Jan 7, 2023
+·
+4 min read
+
+
+
+9 Python @dataclass Best Practices To Improve the Development Process
+An exploration of the benefits of @dataclass
+Published 
+on Jan 2, 2023
+·
+11 min read
+
+·
+In Better Programming
+
+
+The Best Way We Create and Manage Multiple Versions of Python
+A complete setup guide for pyenv
+Published 
+on Dec 15, 2022
+·
+7 min read
+
+·
+In Better Programming
+·
+Unpublished changes
+
+
+A Stepped Approach for Balancing and Augmenting Structured Data for Classification
+Data augmentation generates simulated data from a dataset. The more data we have, the better the chosen learner will be at classification…
+Published 
+on Oct 24, 2022
+·
+10 min read
+
+·
+In Towards Data Science
+·
+Unpublished changes
+
+
+Forty-Seven Best Practice Refactoring Techniques for Better Python Code
+Techniques and code snippets culled from my colleagues for Python documentation, coding, testing, verification, and continuous integration
+Published 
+on Oct 8, 2022
+·
+11 min read
+
+·
+In Better Programming
+·
+Unpublished changes
+
+
+How does the Fed Bank Affect the U.S. Economy and Asset Prices?
+There exists unusually high volatility in the asset market because of the Federal Bank's response to inflation. Depending on the latest…
+Published 
+on Jul 20, 2022
+·
+8 min read
+
+·
+In DataDrivenInvestor
+·
+Unpublished changes
+
+
+How does Inflation Quantitatively Affect the Fed Rate and Cause Bargain Price Stocks?
+The correlation between inflation (CPI), the Fed Rate, and other U.S. economic indexes is measured. Our historical analysis indicates that…
+Published 
+on Jul 8, 2022
+·
+12 min read
+
+·
+In DataDrivenInvestor
+
+
+Four Levels of Machine Learning Operation Maturity for Cloud Computing
+A checklist to determine your Machine Learning Operation (MLOps) maturity level.
+Published 
+on Jul 6, 2022
+·
+8 min read
+
+·
+In FAUN — Developer Community 🐾
+·
+Unpublished changes
+
+
+Four High-Performance Asset Risk Methods to Add to a Pandas DataFrame
+A step-by-step approach for defining by formula and creating four different high-performance methods for risk of a market-exchange asset.
+Published 
+on Jun 22, 2022
+·
+10 min read
+
+·
+In FAUN — Developer Community 🐾
+
+
+Four Docker Containers for the Natural Language Processing Lifecycle
+Docker images for the Natural Language Processing lifecycle of development, test, stage, and production
+Published 
+on Jun 22, 2022
+·
+6 min read
+
+·
+In FAUN — Developer Community 🐾
+
+
+You Want Company and Country Financial Data into a Python Pandas Dataframe
+Shown is a method for retrieving time-dependent asset prices and worldwide economic data.
+Published 
+on Jun 21, 2022
+·
+6 min read
+
+·
+In DataDrivenInvestor
+
+
+Three Different Ways to Create High-Performace Custom Extensions to the Pandas DataFrame
+The first two approaches show how to add a method to the Pandas DataFrame class. The third approach shows how to add a new class to the…
+Published 
+on Jun 4, 2022
+·
+7 min read
+
+·
+In FAUN — Developer Community 🐾
+
+
+The Five Steps for Determining Returns From Asset Price Historical Data Using Python
+A step-by-step approach for finding and analyzing the returns of a market-exchange asset
+Published 
+on May 2, 2022
+·
+11 min read
+
+·
+In DataDrivenInvestor
+
+
+Twelve Investment Tips A Financial Advisor Will Never Tell You
+Twelve tips that guide my investments and spending.
+Published 
+on Mar 30, 2022
+·
+7 min read
+
+·
+In DataDrivenInvestor
+
+
+How to Play the Best Casino in the World
+This house pays out 9% per year.
+Published 
+on Mar 23, 2022
+·
+13 min read
+
+·
+In DataDrivenInvestor
+
+
+The Financial Advisor Could Go the Way of the Travel Agency — Extinct
+Portfolio managers are the bedrock of indexes. I hope they do not, as well, die off.
+Published 
+on Mar 21, 2022
+·
+14 min read
+
+·
+In DataDrivenInvestor
+
+
+Will Inflation Cause A Financial Market Bubble Burst or a Slow Downturn?
+I argue that the market is efficient and that prices reflect the future performance of market instruments. All upturns and downturns of…
+Published 
+on Feb 1, 2022
+·
+12 min read
+
+·
+In DataDrivenInvestor
+·
+Unpublished changes
+
+
+Which Will Have the Greatest Impact On Your Life: Biotech mRNA or Pharma?
+Recent Biotechnology breakthroughs will result in a more significant market than the Pharmaceutical market.
+Published 
+on Nov 30, 2021
+·
+10 min read
+
+·
+In DataDrivenInvestor
+
+
+Investing For The Apocalypse
+There is a dominating idea that extinction events occur suddenly. However, Climate Change Heating, a possible extinction event is occurring…
+Published 
+on Sep 5, 2021
+·
+6 min read
+
+·
+In DataDrivenInvestor
+
+
+The Second Seven Primary Concepts and Code Examples For Using Kubernetes Productively
+This blog article is the second blog article explaining Kubernetes without delving into its internal architecture. I discuss the next seven…
+Published 
+on Aug 25, 2021
+·
+14 min read
+
+·
+In Towards Data Science
+
+
+The First Ten Primary Concepts and Code Examples For Using Kubernetes Productively
+An explanation and usage of Kubernetes should not discuss internal architectural components. Instead, I discuss Kubernetes basic concepts…
+Published 
+on Aug 18, 2021
+·
+11 min read
+
+·
+In Towards Data Science
+
+
+A Literate Programming Environment For Existing Repositories
+Literate programming is a superset of DevOps or Change Integration/Change Deployment (CI/CD). I detail how to implement literate…
+Published 
+on Aug 11, 2021
+·
+7 min read
+
+·
+In Level Up Coding
+
+
+Fifteen Jupyter Notebook Extensions to a Docker Image
+The Docker image for our Jupyter Python and R users required them to set their Nbextensions preferences after every launch. We were able to…
+Published 
+on Aug 3, 2021
+·
+7 min read
+
+·
+In Towards Data Science
+
+
+Seventeen Methods For Changing Linux Environment Variables and Docker Containers Environment…
+Docker Containers inherit environment variables from their host, set externally at launch-time, or set internally in the Dockerfile. Also…
+Published 
+on Jul 30, 2021
+·
+10 min read
+
+·
+In Level Up Coding
+
+
+Photonai Is A High Code Framework for Scikit-Learn, Keras, Tensorflow, Pytorch, and other…
+Photonai has different end-user objectives than Scikit-Learn. I recommend both for Machine Learning. Photonai is a high-code framework that…
+Published 
+on Jul 26, 2021
+·
+6 min read
+
+·
+In Geek Culture
+
+
+Nineteen Alternative to AWS SageMaker Course
+I recommend that you audit edX AWS SageMaker. I would not pay for the course certificate, and I recommend neither should you. I do detail…
+Published 
+on Jul 22, 2021
+·
+4 min read
+
+
+
+Nineteen Reasons That Github Actions Could Kill Off Jenkins
+Yes, the title is a little controversial. However, our experience leads us to predict that GitHub Actions will be the dominant choice for…
+Published 
+on Jul 22, 2021
+·
+14 min read
+
+·
+In Level Up Coding
+
+
+Twenty-one Techniques and Five Concepts For Better Docker Usage
+Docker is the app-ware for your computers that are not a smartphone.
+Published 
+on Jul 21, 2021
+·
+10 min read
+
+·
+In Towards Data Science
+
+
+Our Enterprise Docker Solution for Migration to the Cloud
+This is a story about our first rollout of Docker in one of the past companies I worked with as a contractor. Code, as well as the gotchas…
+Published 
+on Jun 27, 2021
+·
+8 min read
+
+·
+In Level Up Coding
+
+
+Know these Concepts and Lesson Tips: edX AWS Developer Course
+With these thirty concepts and sixty gap-filling tips, you are well-prepared for the edX AWS Developer course. Obtaining a pass and awarded…
+Published 
+on Jun 18, 2021
+·
+20 min read
+
+
+
+How close is GPT-3 to Artificial General Intelligence?
+GPT-3 is a good start for human-like natural language performance. Perhaps a better analogy might be the “Homo habilis” [1] of Artificial…
+Published 
+on Jun 14, 2021
+·
+7 min read
+
+·
+In Towards Data Science
+
+
+Machine Learning Execution is a Directed Acyclic Graph
+Machine Learning execution should not be thought of as a pipeline.
+Published 
+on Jun 12, 2021
+·
+8 min read
+
+·
+In Towards Data Science
+
+
+When Will I Learn KILS?
+Hint: A tale about making the same investment mistake over and over again.
+Published 
+on Jun 11, 2021
+·
+3 min read
+
+·
+In DataDrivenInvestor
+
+
+Eighteen Python Snippets for Colab Productivity
+I share the Colab (and Jupyter) notebook Python code utilities used by our team.
+Published 
+on Jun 10, 2021
+·
+5 min read
+
+·
+In ITNEXT
