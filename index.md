@@ -137,27 +137,12 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [Fifteen Jupyter Notebook Extensions to a Docker Image](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in [Better Programming](https://betterprogramming.pub/)  Aug 3, 20211
 
 
-1. [The Second Seven Primary Concepts and Code Examples For Using Kubernetes Productively](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published itowardsdatascience.com](https://towardsdatascience.com  Aug 25, 20211
+1. [The Second Seven Primary Concepts and Code Examples For Using Kubernetes Productively](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in [towardsdatascience.com](https://towardsdatascience.com) Aug 25, 20211
 
 
+1. [Investing For The Apocalypse](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/)Sep 5, 2021.
 
-
-Investing For The Apocalypse
-There is a dominating idea that extinction events occur suddenly. However, Climate Change Heating, a possible extinction event is occurring…
-Published 
-on Sep 5, 2021
-In DataDrivenInvestor
-
-
-Which Will Have the Greatest Impact On Your Life: Biotech mRNA or Pharma?
-Recent Biotechnology breakthroughs will result in a more significant market than the Pharmaceutical market.
-Published 
-on Nov 30, 2021
-
-In DataDrivenInvestor
-
-
-
+1. [Which Will Have the Greatest Impact On Your Life: Biotech mRNA or Pharma?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/)Nov 30, 2021.
 
 1. [Forty-Seven Best Practice Refactoring Techniques for Better Python Codes.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) Oct 8, 2022.
 
@@ -169,62 +154,37 @@ In DataDrivenInvestor
 
 1. [Six Steps to Automate Kaggle in Python for Safe and Fast Submissions.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) Jan 7, 2023
 
-   Will Inflation Cause A Financial Market Bubble Burst or a Slow Downturn?
-I argue that the market is efficient and that prices reflect the future performance of market instruments. All upturns and downturns of…
-Published 
-on Feb 1, 2022
+   
+1. [ Will Inflation Cause A Financial Market Bubble Burst or a Slow Downturn?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Feb 1, 2022.
 
 1. [Improve Your Exploratory Data Analysis for Tabular Data: Part 1.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on March 1, 2023.
 
-The Financial Advisor Could Go the Way of the Travel Agency — Extinct
-Portfolio managers are the bedrock of indexes. I hope they do not, as well, die off.
-Published 
-on Mar 21, 2022
-In DataDrivenInvesto
+1. [The Financial Advisor Could Go the Way of the Travel Agency — Extinct](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Mar 21, 2022.
+
+1. [FHow to Play the Best Casino in the World.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Mar 23, 2022.
 
 
-How to Play the Best Casino in the World
-This house pays out 9% per year.
-Published 
-on Mar 23, 2022
-In DataDrivenInvestor
+1. [Twelve Investment Tips A Financial Advisor Will Never Tell You](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Mar 30, 2022.
 
-Twelve Investment Tips A Financial Advisor Will Never Tell You
-Twelve tips that guide my investments and spending.
-Published 
-on Mar 30, 2022
-
- 1. [Part 1: Eight Major Methods For FineTuning an LLM.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on Apr 9, 2023.
+1. [Part 1: Eight Major Methods For FineTuning an LLM.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on Apr 9, 2023.
 
 1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) April 18, 2023.
 
-The Five Steps for Determining Returns From Asset Price Historical Data Using Python
-A step-by-step approach for finding and analyzing the returns of a market-exchange asset
-Published 
-on May 2, 2022
+1. [The Five Steps for Determining Returns From Asset Price Historical Data Using Python.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/)J May 2, 2022.
 
-Three Different Ways to Create High-Performace Custom Extensions to the Pandas DataFrame
-The first two approaches show how to add a method to the Pandas DataFrame class. The third approach shows how to add a new class to the…
-Published 
-on Jun 4, 2022
+
+1. [ Three Different Ways to Create High-Performace Custom Extensions to the Pandas DataFram.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 4, 2022.
+
 
 1. [Optimizing My Rust Development Environment](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
 
 1. [Successful Object-Oriented Programming (OOP) in Rust: Mastering Five Critical Concepts From Python.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023
 
- You Want Company and Country Financial Data into a Python Pandas Dataframe
-Shown is a method for retrieving time-dependent asset prices and worldwide economic data.
-Published 
-on Jun 21, 2022
-·In DataDrivenInvestor
+1. [Company and Country Financial Data into a Python Pandas Dataframe]https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Jun 21, 2022.
 
+1. [Company and Country Financial Data into a Python Pandas Dataframe]https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Jun 21, 2022.
 
-
-Four Docker Containers for the Natural Language Processing Lifecycle
-Docker images for the Natural Language Processing lifecycle of development, test, stage, and production
-Published 
-on Jun 22, 2022
-In DataDrivenInvestor
+1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022.
 
 1. [Four High-Performance Asset Risk Methods to Add to a Pandas DataFrame?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/)Jun 22, 2022.
 
@@ -242,7 +202,7 @@ In DataDrivenInvestor
 
 
 
-
+1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
 The First Ten Primary Concepts and Code Examples For Using Kubernetes Productively
 An explanation and usage of Kubernetes should not discuss internal architectural components. Instead, I discuss Kubernetes basic concepts…
 Published 
@@ -264,11 +224,6 @@ on Aug 11, 2021
 ·
 In Level Up Coding
 
-
-
-
-·
-In Towards Data Science
 
 
 Seventeen Methods For Changing Linux Environment Variables and Docker Containers Environment…
@@ -293,6 +248,7 @@ on Jul 26, 2021
 In Geek Culture
 
 
+1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
 Nineteen Alternative to AWS SageMaker Course
 I recommend that you audit edX AWS SageMaker. I would not pay for the course certificate, and I recommend neither should you. I do detail…
 Published 
@@ -312,7 +268,7 @@ on Jul 22, 2021
 ·
 In Level Up Coding
 
-
+1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
 Twenty-one Techniques and Five Concepts For Better Docker Usage
 Docker is the app-ware for your computers that are not a smartphone.
 Published 
@@ -334,7 +290,7 @@ on Jun 27, 2021
 ·
 In Level Up Coding
 
-
+1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
 Know these Concepts and Lesson Tips: edX AWS Developer Course
 With these thirty concepts and sixty gap-filling tips, you are well-prepared for the edX AWS Developer course. Obtaining a pass and awarded…
 Published 
@@ -343,7 +299,7 @@ on Jun 18, 2021
 20 min read
 
 
-
+1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
 How close is GPT-3 to Artificial General Intelligence?
 GPT-3 is a good start for human-like natural language performance. Perhaps a better analogy might be the “Homo habilis” [1] of Artificial…
 Published 
@@ -354,7 +310,7 @@ on Jun 14, 2021
 ·
 In Towards Data Science
 
-
+1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
 Machine Learning Execution is a Directed Acyclic Graph
 Machine Learning execution should not be thought of as a pipeline.
 Published 
@@ -366,17 +322,8 @@ on Jun 12, 2021
 In Towards Data Science
 
 
-When Will I Learn KILS?
-Hint: A tale about making the same investment mistake over and over again.
-Published 
-on Jun 11, 2021
-·
-3 min read
 
-·
-In DataDrivenInvestor
-
-
+1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
 Eighteen Python Snippets for Colab Productivity
 I share the Colab (and Jupyter) notebook Python code utilities used by our team.
 Published 
