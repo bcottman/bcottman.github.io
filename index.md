@@ -132,20 +132,14 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Six Advanced Decorator Patterns](https://dr-bruce-cottman.medium.com/six-advanced-decorator-patterns-5ffe67552691) Published in [Better Programming](https://betterprogramming.pub/)- June 1, 2021.
 
-1. [Nine @dataclass Techniques for Better Python Code](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in [Better Programming](https://betterprogramming.pub/) June 7, 2021.
+1. [Nine @dataclass Techniques for Better Python Code](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in[(https://towardsdatascience.com)June 7, 2021.
 
- 
-Fifteen Jupyter Notebook Extensions to a Docker Image
-The Docker image for our Jupyter Python and R users required them to set their Nbextensions preferences after every launch. We were able to…
-Published 
-on Aug 3, 2021
+1. [Fifteen Jupyter Notebook Extensions to a Docker Image](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in [Better Programming](https://betterprogramming.pub/)  Aug 3, 20211
 
 
-The Second Seven Primary Concepts and Code Examples For Using Kubernetes Productively
-This blog article is the second blog article explaining Kubernetes without delving into its internal architecture. I discuss the next seven…
-Published 
-on Aug 25, 202
-In Towards Data Science
+1. [The Second Seven Primary Concepts and Code Examples For Using Kubernetes Productively](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published itowardsdatascience.com](https://towardsdatascience.com  Aug 25, 20211
+
+
 
 
 Investing For The Apocalypse
