@@ -1,4 +1,4 @@
--- ## PUBLICATIONS (Selected)
+## PUBLICATIONS 1981-1990
 
 “Solving the Data Interoperability Problem using a Universal Data Access Broker”. Mike Higgs & Bruce H. Cottman, IEEE Data Engineering Bulletin, September 1998. https://dblp.org/db/journals/debu/debu21
 
@@ -9,7 +9,7 @@
 Other publications include Approximately 20 final reports by Army, Darpa, NASA, and the Navy approximately and 12 papers published in Physics Letter C, Physics C and Nuclear Methods.
 
 
-## Medium Articles
+## Medium PUBLICATIONS
 
 1. [paso’s Offering of Logging and Parameter Services for your Python Project.](https://medium.com/@dr.bruce.cottman/pasos-offering-of-logging-and-parameter-services-for-your-python-project-c3ae2fd6869a) Published in towardsdatascience.com - June 15, 2019.
 
@@ -135,15 +135,33 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [Nine @dataclass Techniques for Better Python Code](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in [Better Programming](https://betterprogramming.pub/) June 7, 2021.
 
  
-1. [Improve Your Exploratory Data Analysis for Tabular Data: Part 1.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on March 1, 2023.
+Fifteen Jupyter Notebook Extensions to a Docker Image
+The Docker image for our Jupyter Python and R users required them to set their Nbextensions preferences after every launch. We were able to…
+Published 
+on Aug 3, 2021
 
- 1. [Part 1: Eight Major Methods For FineTuning an LLM.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on Apr 9, 2023.
 
-1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) April 18, 2023.
+The Second Seven Primary Concepts and Code Examples For Using Kubernetes Productively
+This blog article is the second blog article explaining Kubernetes without delving into its internal architecture. I discuss the next seven…
+Published 
+on Aug 25, 202
+In Towards Data Science
 
-1. [Optimizing My Rust Development Environment](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
 
-1. [Successful Object-Oriented Programming (OOP) in Rust: Mastering Five Critical Concepts From Python.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
+Investing For The Apocalypse
+There is a dominating idea that extinction events occur suddenly. However, Climate Change Heating, a possible extinction event is occurring…
+Published 
+on Sep 5, 2021
+In DataDrivenInvestor
+
+
+Which Will Have the Greatest Impact On Your Life: Biotech mRNA or Pharma?
+Recent Biotechnology breakthroughs will result in a more significant market than the Pharmaceutical market.
+Published 
+on Nov 30, 2021
+
+In DataDrivenInvestor
+
 
 
 
@@ -157,78 +175,18 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Six Steps to Automate Kaggle in Python for Safe and Fast Submissions.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) Jan 7, 2023
 
-
-
-
-
-How does the Fed Bank Affect the U.S. Economy and Asset Prices?
-There exists unusually high volatility in the asset market because of the Federal Bank's response to inflation. Depending on the latest…
+   Will Inflation Cause A Financial Market Bubble Burst or a Slow Downturn?
+I argue that the market is efficient and that prices reflect the future performance of market instruments. All upturns and downturns of…
 Published 
-on Jul 20, 2022
-·
-In DataDrivenInvestor
+on Feb 1, 2022
 
+1. [Improve Your Exploratory Data Analysis for Tabular Data: Part 1.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on March 1, 2023.
 
-
-How does Inflation Quantitatively Affect the Fed Rate and Cause Bargain Price Stocks?
-The correlation between inflation (CPI), the Fed Rate, and other U.S. economic indexes is measured. Our historical analysis indicates that…
+The Financial Advisor Could Go the Way of the Travel Agency — Extinct
+Portfolio managers are the bedrock of indexes. I hope they do not, as well, die off.
 Published 
-on Jul 8, 2022
-In DataDrivenInvestor
-
-
-Four Levels of Machine Learning Operation Maturity for Cloud Computing
-A checklist to determine your Machine Learning Operation (MLOps) maturity level.
-Published 
-on Jul 6, 2022
-
-
-
-Four High-Performance Asset Risk Methods to Add to a Pandas DataFrame
-A step-by-step approach for defining by formula and creating four different high-performance methods for risk of a market-exchange asset.
-Published 
-on Jun 22, 2022
-·
-
-Four Docker Containers for the Natural Language Processing Lifecycle
-Docker images for the Natural Language Processing lifecycle of development, test, stage, and production
-Published 
-on Jun 22, 2022
-
-
-You Want Company and Country Financial Data into a Python Pandas Dataframe
-Shown is a method for retrieving time-dependent asset prices and worldwide economic data.
-Published 
-on Jun 21, 2022
-·
-In DataDrivenInvestor
-
-
-Three Different Ways to Create High-Performace Custom Extensions to the Pandas DataFrame
-The first two approaches show how to add a method to the Pandas DataFrame class. The third approach shows how to add a new class to the…
-Published 
-on Jun 4, 2022
-·
-7 min read
-
-
-The Five Steps for Determining Returns From Asset Price Historical Data Using Python
-A step-by-step approach for finding and analyzing the returns of a market-exchange asset
-Published 
-on May 2, 2022
-
-In DataDrivenInvestor
-
-
-Twelve Investment Tips A Financial Advisor Will Never Tell You
-Twelve tips that guide my investments and spending.
-Published 
-on Mar 30, 2022
-·
-7 min read
-
-·
-In DataDrivenInvestor
+on Mar 21, 2022
+In DataDrivenInvesto
 
 
 How to Play the Best Casino in the World
@@ -237,51 +195,58 @@ Published
 on Mar 23, 2022
 In DataDrivenInvestor
 
-
-The Financial Advisor Could Go the Way of the Travel Agency — Extinct
-Portfolio managers are the bedrock of indexes. I hope they do not, as well, die off.
+Twelve Investment Tips A Financial Advisor Will Never Tell You
+Twelve tips that guide my investments and spending.
 Published 
-on Mar 21, 2022
+on Mar 30, 2022
+
+ 1. [Part 1: Eight Major Methods For FineTuning an LLM.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on Apr 9, 2023.
+
+1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) April 18, 2023.
+
+The Five Steps for Determining Returns From Asset Price Historical Data Using Python
+A step-by-step approach for finding and analyzing the returns of a market-exchange asset
+Published 
+on May 2, 2022
+
+Three Different Ways to Create High-Performace Custom Extensions to the Pandas DataFrame
+The first two approaches show how to add a method to the Pandas DataFrame class. The third approach shows how to add a new class to the…
+Published 
+on Jun 4, 2022
+
+1. [Optimizing My Rust Development Environment](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
+
+1. [Successful Object-Oriented Programming (OOP) in Rust: Mastering Five Critical Concepts From Python.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023
+
+ You Want Company and Country Financial Data into a Python Pandas Dataframe
+Shown is a method for retrieving time-dependent asset prices and worldwide economic data.
+Published 
+on Jun 21, 2022
+·In DataDrivenInvestor
+
+
+
+Four Docker Containers for the Natural Language Processing Lifecycle
+Docker images for the Natural Language Processing lifecycle of development, test, stage, and production
+Published 
+on Jun 22, 2022
 In DataDrivenInvestor
 
+1. [Four High-Performance Asset Risk Methods to Add to a Pandas DataFrame?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/)Jun 22, 2022.
 
-Will Inflation Cause A Financial Market Bubble Burst or a Slow Downturn?
-I argue that the market is efficient and that prices reflect the future performance of market instruments. All upturns and downturns of…
-Published 
-on Feb 1, 2022
+1. [Four Levels of Machine Learning Operation Maturity for Cloud Computing]()  - Published in [towardsdatascience.com](https://towardsdatascience.com) Jul 6, 20222.
 
-In DataDrivenInvestor
+1. [How does Inflation Quantitatively Affect the Fed Rate and Cause Bargain Price Stocks?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Jul 8, 2022.
 
-
-Which Will Have the Greatest Impact On Your Life: Biotech mRNA or Pharma?
-Recent Biotechnology breakthroughs will result in a more significant market than the Pharmaceutical market.
-Published 
-on Nov 30, 2021
-·
-10 min read
-In DataDrivenInvestor
+1. [How does the Fed Bank Affect the U.S. Economy and Asset Prices?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Jul 20, 2022.
 
 
-Investing For The Apocalypse
-There is a dominating idea that extinction events occur suddenly. However, Climate Change Heating, a possible extinction event is occurring…
-Published 
-on Sep 5, 2021
-·
-6 min read
-
-·
-In DataDrivenInvestor
 
 
-The Second Seven Primary Concepts and Code Examples For Using Kubernetes Productively
-This blog article is the second blog article explaining Kubernetes without delving into its internal architecture. I discuss the next seven…
-Published 
-on Aug 25, 2021
-·
-14 min read
 
-·
-In Towards Data Science
+
+
+
 
 
 The First Ten Primary Concepts and Code Examples For Using Kubernetes Productively
@@ -306,12 +271,7 @@ on Aug 11, 2021
 In Level Up Coding
 
 
-Fifteen Jupyter Notebook Extensions to a Docker Image
-The Docker image for our Jupyter Python and R users required them to set their Nbextensions preferences after every launch. We were able to…
-Published 
-on Aug 3, 2021
-·
-7 min read
+
 
 ·
 In Towards Data Science
