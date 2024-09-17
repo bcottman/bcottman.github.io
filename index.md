@@ -184,7 +184,7 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Company and Country Financial Data into a Python Pandas Dataframe]https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Jun 21, 2022.
 
-1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022.
+1. [Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022.
 
 1. [Four High-Performance Asset Risk Methods to Add to a Pandas DataFrame?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/)Jun 22, 2022.
 
@@ -194,79 +194,11 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [How does the Fed Bank Affect the U.S. Economy and Asset Prices?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Jul 20, 2022.
 
+1.[The First Ten Primary Concepts and Code Examples For Using Kubernetes Productively.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022.
 
+  
+1. [Photonai Is A High Code Framework for Scikit-Learn, Keras, Tensorflow, Pytorch, and other?.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com)Jul 26, 2021.
 
-
-
-
-
-
-
-1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
-The First Ten Primary Concepts and Code Examples For Using Kubernetes Productively
-An explanation and usage of Kubernetes should not discuss internal architectural components. Instead, I discuss Kubernetes basic concepts…
-Published 
-on Aug 18, 2021
-·
-11 min read
-
-·
-In Towards Data Science
-
-
-A Literate Programming Environment For Existing Repositories
-Literate programming is a superset of DevOps or Change Integration/Change Deployment (CI/CD). I detail how to implement literate…
-Published 
-on Aug 11, 2021
-·
-7 min read
-
-·
-In Level Up Coding
-
-
-
-Seventeen Methods For Changing Linux Environment Variables and Docker Containers Environment…
-Docker Containers inherit environment variables from their host, set externally at launch-time, or set internally in the Dockerfile. Also…
-Published 
-on Jul 30, 2021
-·
-10 min read
-
-·
-In Level Up Coding
-
-
-Photonai Is A High Code Framework for Scikit-Learn, Keras, Tensorflow, Pytorch, and other…
-Photonai has different end-user objectives than Scikit-Learn. I recommend both for Machine Learning. Photonai is a high-code framework that…
-Published 
-on Jul 26, 2021
-·
-6 min read
-
-·
-In Geek Culture
-
-
-1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
-Nineteen Alternative to AWS SageMaker Course
-I recommend that you audit edX AWS SageMaker. I would not pay for the course certificate, and I recommend neither should you. I do detail…
-Published 
-on Jul 22, 2021
-·
-4 min read
-
-
-
-Nineteen Reasons That Github Actions Could Kill Off Jenkins
-Yes, the title is a little controversial. However, our experience leads us to predict that GitHub Actions will be the dominant choice for…
-Published 
-on Jul 22, 2021
-·
-14 min read
-
-·
-In Level Up Coding
 
 1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
 Twenty-one Techniques and Five Concepts For Better Docker Usage
@@ -323,13 +255,6 @@ In Towards Data Science
 
 
 
-1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
-Eighteen Python Snippets for Colab Productivity
-I share the Colab (and Jupyter) notebook Python code utilities used by our team.
-Published 
-on Jun 10, 2021
-·
-5 min read
+1. [Eighteen Python Snippets for Colab Productivity](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com)  Jun 10, 2021.
 
-·
-In ITNEXT
+
