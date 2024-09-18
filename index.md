@@ -192,22 +192,14 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [How does the Fed Bank Affect the U.S. Economy and Asset Prices?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Jul 20, 2022.
 
 1.[The First Ten Primary Concepts and Code Examples For Using Kubernetes Productively.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022.
-
   
-1. [Photonai Is A High Code Framework for Scikit-Learn, Keras, Tensorflow, Pytorch, and other?.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com)Jul 26, 2021.
+1. [Photonai Is A High Code Framework for Scikit-Learn, Keras, Tensorflow, Pytorch, and other?.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com )Jul 26, 2021.
+
+1. [Twenty-one Techniques and Five Concepts For Better Docker Usage.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jul 21, 2021.
 
 
-1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
-Twenty-one Techniques and Five Concepts For Better Docker Usage
-Docker is the app-ware for your computers that are not a smartphone.
-Published 
-on Jul 21, 2021
-·
-10 min read
 
-·
-In Towards Data Science
-
+1. [Twenty-one Techniques and Five Concepts For Better Docker Usage.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jul 21, 2021.
 
 Our Enterprise Docker Solution for Migration to the Cloud
 This is a story about our first rollout of Docker in one of the past companies I worked with as a contractor. Code, as well as the gotchas…
