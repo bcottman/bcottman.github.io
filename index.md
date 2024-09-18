@@ -194,7 +194,7 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [Three Different Ways to Create High-Performace Custom Extensions to the Pandas DataFram.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 4, 2022.
 
 
-1. [Optimizing My Rust Development Environment]([https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2](https://medium.com/better-programming/optimizing-my-rust-development-environment-248bff858e73) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
+1. [Optimizing My Rust Development Environment](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)(https://medium.com/better-programming/optimizing-my-rust-development-environment-248bff858e73) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
 
 1. [Successful Object-Oriented Programming (OOP) in Rust: Mastering Five Critical Concepts From Python.]([https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2](https://medium.com/better-programming/successful-object-oriented-programming-oop-in-rust-mastering-five-critical-concepts-from-python-7b64e5987fd4)) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023
 
