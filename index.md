@@ -187,17 +187,17 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [Improve Your Exploratory Data Analysis for Tabular Data: Part 1.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on March 1, 2023.
 
 
-1. [Part 1: Eight Major Methods For FineTuning an LLM.](https://medium.com/@dr-bruce-cottman/part-1-eight-major-methods-for-finetuning-an-llm-6f746c7259ee) Published on Apr 9, 2023.
 
 1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) April 18, 2023.
 
 1. [The Five Steps for Determining Returns From Asset Price Historical Data Using Python.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/)J May 2, 2023.
 
 
-
 1. [Optimizing My Rust Development Environment.](https://medium.com/better-programming/optimizing-my-rust-development-environment-248bff858e73) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
 
 1. [Successful Object-Oriented Programming (OOP) in Rust: Mastering Five Critical Concepts From Python.](https://medium.com/better-programming/successful-object-oriented-programming-oop-in-rust-mastering-five-critical-concepts-from-python-7b64e5987fd4) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023
+
+1. [Part 1: Eight Major Methods For FineTuning an LLM.](https://medium.com/@dr-bruce-cottman/part-1-eight-major-methods-for-finetuning-an-llm-6f746c7259ee) Published on June 6, 2023.
 
 
 
