@@ -204,7 +204,3 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [Our Enterprise Docker Solution for Migration to the Cloud.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com -  Jun 27, 2021.
 
 
-
-
-
-
