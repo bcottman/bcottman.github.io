@@ -130,6 +130,7 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [How to Assign Computing Resources for Four Different Cloud Kubernetes Services: AKS, EKS, GKE, and Minikube]()  - Published in [towardsdatascience.com](https://towardsdatascience.com) May 20, 2021
 
+1. [Twenty-one Techniques and Five Concepts For Better Docker Usage.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jul 21, 2021.
 
 1. [Fifteen Jupyter Notebook Extensions to a Docker Image](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in [Better Programming](https://betterprogramming.pub/)  Aug 3, 20211
 
@@ -195,55 +196,22 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
   
 1. [Photonai Is A High Code Framework for Scikit-Learn, Keras, Tensorflow, Pytorch, and other?.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com )Jul 26, 2021.
 
-1. [Twenty-one Techniques and Five Concepts For Better Docker Usage.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jul 21, 2021.
-
-
-
-1. [Twenty-one Techniques and Five Concepts For Better Docker Usage.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jul 21, 2021.
-
-Our Enterprise Docker Solution for Migration to the Cloud
-This is a story about our first rollout of Docker in one of the past companies I worked with as a contractor. Code, as well as the gotchas…
-Published 
-on Jun 27, 2021
-·
-8 min read
-
-·
-In Level Up Coding
-
-1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
-Know these Concepts and Lesson Tips: edX AWS Developer Course
-With these thirty concepts and sixty gap-filling tips, you are well-prepared for the edX AWS Developer course. Obtaining a pass and awarded…
-Published 
-on Jun 18, 2021
-·
-20 min read
-
-
-1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
-How close is GPT-3 to Artificial General Intelligence?
-GPT-3 is a good start for human-like natural language performance. Perhaps a better analogy might be the “Homo habilis” [1] of Artificial…
-Published 
-on Jun 14, 2021
-·
-7 min read
-
-·
-In Towards Data Science
-
-1. Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022
-Machine Learning Execution is a Directed Acyclic Graph
-Machine Learning execution should not be thought of as a pipeline.
-Published 
-on Jun 12, 2021
-·
-8 min read
-
-·
-In Towards Data Science
 
 
 
 1. [Eighteen Python Snippets for Colab Productivity](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com)  Jun 10, 2021.
+
+1.[How close is GPT-3 to Artificial General Intelligence?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com)  Jun 14, 2021.
+
+1. [Know these Concepts and Lesson Tips: edX AWS Developer Course.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 18, 2021.
+
+
+1. [Machine Learning Execution is a Directed Acyclic Graphe.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2021
+
+1. [Our Enterprise Docker Solution for Migration to the Cloud.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 27, 2021.
+
+
+
+
 
 
