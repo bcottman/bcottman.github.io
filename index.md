@@ -131,8 +131,6 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [How to Assign Computing Resources for Four Different Cloud Kubernetes Services: AKS, EKS, GKE, and Minikube]()  - Published in [towardsdatascience.com](https://towardsdatascience.com) May 20, 2021
 
 
-1. [Nine @dataclass Techniques for Better Python Code](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in[(https://towardsdatascience.com)June 7, 2021.
-
 1. [Fifteen Jupyter Notebook Extensions to a Docker Image](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in [Better Programming](https://betterprogramming.pub/)  Aug 3, 20211
 
 
