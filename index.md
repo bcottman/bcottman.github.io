@@ -195,7 +195,7 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Eighteen Python Snippets for Colab Productivity](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com -  Jun 10, 2021.
 
-1.[How close is GPT-3 to Artificial General Intelligence?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in  towardsdatascience.com -  Jun 14, 2021.
+1. [How close is GPT-3 to Artificial General Intelligence?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in  towardsdatascience.com -  Jun 14, 2021.
 
 1. [Know these Concepts and Lesson Tips: edX AWS Developer Course.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com - Jun 18, 2021.
 
