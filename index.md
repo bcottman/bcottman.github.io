@@ -54,7 +54,6 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Will Github Actions kill off Jenkins?](https://medium.com/@dr.bruce.cottman/will-github-actions-kill-off-jenkins-f85e614bb8d3)  Published in theStartup.com - July 9. 2020.
 
-1. [S\*\*\*e of Master/S\*\*\*e is the S-word of Technology.](https://medium.com/me/stats/post/f64cb3a6697a) - July 13. 2020.
 
 1. [Natural Language Processing in Production: Creating Docker Images.](https://medium.com/@dr.bruce.cottman/natural-language-processing-in-production-creating-docker-images-84bd86e161b4). Published in [Machine Learning](https://medium.com/topic/machine-learning) and [Programming](https://medium.com/topic/programming)- August 17, 2020.
 
