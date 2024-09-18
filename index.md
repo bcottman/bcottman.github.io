@@ -1,4 +1,4 @@
-## PUBLICATIONS 1981-1990
+## Pubilications 1981-1990
 
 “Solving the Data Interoperability Problem using a Universal Data Access Broker”. Mike Higgs & Bruce H. Cottman, IEEE Data Engineering Bulletin, September 1998. https://dblp.org/db/journals/debu/debu21
 
@@ -9,7 +9,7 @@
 Other publications include Approximately 20 final reports by Army, Darpa, NASA, and the Navy approximately and 12 papers published in Physics Letter C, Physics C and Nuclear Methods.
 
 
-## Medium PUBLICATIONS
+## Pubilications in  Medium \
 
 1. [paso’s Offering of Logging and Parameter Services for your Python Project.](https://medium.com/@dr.bruce.cottman/pasos-offering-of-logging-and-parameter-services-for-your-python-project-c3ae2fd6869a) Published in towardsdatascience.com - June 15, 2019.
 
@@ -185,7 +185,7 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [Improve Your Exploratory Data Analysis for Tabular Data: Part 1.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on March 1, 2023.
 
 
-1. [Part 1: Eight Major Methods For FineTuning an LLM.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on Apr 9, 2023.
+1. [Part 1: Eight Major Methods For FineTuning an LLM.]([https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2](https://medium.com/@dr-bruce-cottman/part-1-eight-major-methods-for-finetuning-an-llm-6f746c7259ee)) Published on Apr 9, 2023.
 
 1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) April 18, 2023.
 
@@ -194,9 +194,9 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [Three Different Ways to Create High-Performace Custom Extensions to the Pandas DataFram.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 4, 2022.
 
 
-1. [Optimizing My Rust Development Environment](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
+1. [Optimizing My Rust Development Environment]([https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2](https://medium.com/better-programming/optimizing-my-rust-development-environment-248bff858e73)) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
 
-1. [Successful Object-Oriented Programming (OOP) in Rust: Mastering Five Critical Concepts From Python.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023
+1. [Successful Object-Oriented Programming (OOP) in Rust: Mastering Five Critical Concepts From Python.]([https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2](https://medium.com/better-programming/successful-object-oriented-programming-oop-in-rust-mastering-five-critical-concepts-from-python-7b64e5987fd4)) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023
 
 
 
