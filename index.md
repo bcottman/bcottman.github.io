@@ -178,19 +178,14 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [A Stepped Approach for Balancing and Augmenting Structured Data for Classification]()  - Published in [towardsdatascience.com](https://towardsdatascience.com) Oct 24, 2022.
 
-1. [The Best Way We Create and Manage Multiple Versions of Pythons.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) Dec 15, 2022.
+1. [The Best Way We Create and Manage Multiple Versions of Pythons.](https://medium.com/better-programming/the-best-way-we-create-and-manage-multiple-versions-of-python-22363e065a43) Published in [Better Programming](https://betterprogramming.pub/) Dec 15, 2022.
 
-1. [9 Python @dataclass Best Practices To Improve the Development Process.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/)Jan 2, 2023.
+1. [9 Python @dataclass Best Practices To Improve the Development Process.](https://medium.com/better-programming/9-python-dataclass-best-practices-to-improve-the-development-process-8a68df446580) Published in [Better Programming](https://betterprogramming.pub/)Jan 2, 2023.
 
-1. [Six Steps to Automate Kaggle in Python for Safe and Fast Submissions.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) Jan 7, 2023
+1. [Six Steps to Automate Kaggle in Python for Safe and Fast Submissions.](https://medium.com/@dr-bruce-cottman/six-steps-to-automate-kaggle-in-python-for-safe-and-fast-submissions-27ad717a4358) Published in [Better Programming](https://betterprogramming.pub/) Jan 7, 2023
 
-1. [Improve Your Exploratory Data Analysis for Tabular Data: Part 1.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on March 1, 2023.
+1. [Improve Your Exploratory Data Analysis for Tabular Data: Part 1.](https://medium.com/@dr-bruce-cottman/improve-your-exploratory-data-analysis-for-tabular-data-part-1-782e98f778a6) Published on March 1, 2023.
 
-
-
-1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) April 18, 2023.
-
-1. [The Five Steps for Determining Returns From Asset Price Historical Data Using Python.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/)J May 2, 2023.
 
 1. [Optimizing My Rust Development Environment.](https://medium.com/better-programming/optimizing-my-rust-development-environment-248bff858e73) Published in [Better Programming](https://betterprogramming.pub/) April 18, 2023.
 
