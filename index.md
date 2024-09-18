@@ -122,20 +122,20 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Twenty-Three Essential Commands for the best experience with your Minikube Installation](https://dr-bruce-cottman.medium.com/twenty-three-essential-commands-for-the-best-experience-with-your-minikube-installation-4569bf247745) - April 21, 2021.
 
-1. [How to Assign Cloud Virtual Machines to a Kubernetes Node](https://itnext.io/how-to-assign-cloud-virtual-machines-to-a-kubernetes-node-277b59834d69) Published in [ITNext](https://itnext.io/) - May 1, 2021. 
+1. [How to Assign Cloud Virtual Machines to a Kubernetes Node](https://itnext.io/how-to-assign-cloud-virtual-machines-to-a-kubernetes-node-277b59834d69) Published in ITNext.io - May 1, 2021. 
 
 1. [Thirty-One Checks For Different Levels of Machine Learning Operation Maturity](https://dr-bruce-cottman.medium.com/thirty-one-checks-for-different-levels-of-machine-learning-operation-maturity-2ba19cc87be9) - Published in [towardsdatascience.com](https://towardsdatascience.com) May 13, 2021. 
 
  1. [A Natural Language Processing Benchmark Framework](https://medium.com/mlearning-ai/a-natural-language-processing-benchmark-framework-9084e042f128) Published in [mlearning-ai](https://medium.com/mlearning-ai) May 14, 2021.
 
-1. [How to Assign Computing Resources for Four Different Cloud Kubernetes Services: AKS, EKS, GKE, and Minikube]()  - Published in [towardsdatascience.com](https://towardsdatascience.com) May 20, 2021
+1. [How to Assign Computing Resources for Four Different Cloud Kubernetes Services: AKS, EKS, GKE, and Minikube]()  - Published in - May 20, 2021
 
-1. [Twenty-one Techniques and Five Concepts For Better Docker Usage.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jul 21, 2021.
+1. [Twenty-one Techniques and Five Concepts For Better Docker Usage.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in  Published in towardsdatascience.com - - Jul 21, 2021.
 
-1. [Fifteen Jupyter Notebook Extensions to a Docker Image](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in [Better Programming](https://betterprogramming.pub/)  Aug 3, 20211
+1. [Fifteen Jupyter Notebook Extensions to a Docker Image](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in Better Programming -  Aug 3, 20211
 
 
-1. [The Second Seven Primary Concepts and Code Examples For Using Kubernetes Productively](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in [towardsdatascience.com](https://towardsdatascience.com) Aug 25, 20211
+1. [The Second Seven Primary Concepts and Code Examples For Using Kubernetes Productively](https://dr-bruce-cottman.medium.com/nine-dataclass-techniques-for-better-python-code-e56b8aa98d8b)  Published in  Published in towardsdatascience.com - Aug 25, 20221.
 
 
 1. [Investing For The Apocalypse](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/)Sep 5, 2021.
@@ -151,16 +151,14 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [9 Python @dataclass Best Practices To Improve the Development Process.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/)Jan 2, 2023.
 
 1. [Six Steps to Automate Kaggle in Python for Safe and Fast Submissions.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) Jan 7, 2023
-
    
-1. [ Will Inflation Cause A Financial Market Bubble Burst or a Slow Downturn?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Feb 1, 2022.
+1. [Will Inflation Cause A Financial Market Bubble Burst or a Slow Downturn?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Feb 1, 2022.
 
 1. [Improve Your Exploratory Data Analysis for Tabular Data: Part 1.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on March 1, 2023.
 
 1. [The Financial Advisor Could Go the Way of the Travel Agency — Extinct](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Mar 21, 2022.
 
 1. [FHow to Play the Best Casino in the World.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Mar 23, 2022.
-
 
 1. [Twelve Investment Tips A Financial Advisor Will Never Tell You](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Mar 30, 2022.
 
@@ -171,7 +169,7 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [The Five Steps for Determining Returns From Asset Price Historical Data Using Python.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/)J May 2, 2022.
 
 
-1. [ Three Different Ways to Create High-Performace Custom Extensions to the Pandas DataFram.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 4, 2022.
+1. [Three Different Ways to Create High-Performace Custom Extensions to the Pandas DataFram.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 4, 2022.
 
 
 1. [Optimizing My Rust Development Environment](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
@@ -196,15 +194,11 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
   
 1. [Photonai Is A High Code Framework for Scikit-Learn, Keras, Tensorflow, Pytorch, and other?.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com )Jul 26, 2021.
 
-
-
-
 1. [Eighteen Python Snippets for Colab Productivity](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com)  Jun 10, 2021.
 
 1.[How close is GPT-3 to Artificial General Intelligence?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com)  Jun 14, 2021.
 
 1. [Know these Concepts and Lesson Tips: edX AWS Developer Course.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 18, 2021.
-
 
 1. [Machine Learning Execution is a Directed Acyclic Graphe.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2021
 
