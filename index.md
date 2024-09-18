@@ -15,7 +15,7 @@ Other publications include Approximately 20 final reports by Army, Darpa, NASA, 
 
 1. [Balancing and Augmenting Structured Data.](https://towardsdatascience.com/part-1-balancing-and-augmenting-structured-data-4ade0df38662) towardsdatascience.com - Oct 11, 2019.
 
-1. [Uncommon Data Cleaners for your Real-World Machine or Deep Learning Project.](https://towardsdatascience.com/uncommon-data-cleaners-for-your-real-world-machine-or-deep-learning-project-f926d8ecb258) towardsdatascience.com - Nov 6, 2019 .
+1. [Uncommon Data Cleaners for your Real-World Machine or Deep Learning Project.](https://towardsdatascience.com/uncommon-data-cleaners-for-your-real-world-machine-or-deep-learning-project-f926d8ecb258) towardsdatascience.com - Nov 6, 2019.
 
 1. [More Uncommon Data Cleaners for your Machine or Deep Learning Project.](https://towardsdatascience.com/part-2-more-uncommon-data-cleaners-for-your-machine-or-deep-learning-project-b30f862b2d81) towardsdatascience.com - Dec 14, 2019.
 
@@ -168,7 +168,6 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [The Five Steps for Determining Returns From Asset Price Historical Data Using Python.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/)J May 2, 2022.
 
-
 1. [Three Different Ways to Create High-Performace Custom Extensions to the Pandas DataFram.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 4, 2022.
 
 
@@ -190,7 +189,7 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [How does the Fed Bank Affect the U.S. Economy and Asset Prices?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Jul 20, 2022.
 
-1.[The First Ten Primary Concepts and Code Examples For Using Kubernetes Productively.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in  towardsdatascience.com -  Jun 22, 2022.
+1. [The First Ten Primary Concepts and Code Examples For Using Kubernetes Productively.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in  towardsdatascience.com -  Jun 22, 2022.
   
 1. [Photonai Is A High Code Framework for Scikit-Learn, Keras, Tensorflow, Pytorch, and other?.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com - Jul 26, 2021.
 
