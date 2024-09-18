@@ -118,17 +118,23 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Six Datatype Transformer Functions for Data Pre-Processing for Machine Learning](https://towardsdatascience.com/six-datatype-transformer-functions-for-data-pre-processing-for-machine-learning-eb9abcce68cd) - Published in [towardsdatascience.com](https://towardsdatascience.com)  - March 25, 2021.
 
-1. [Twenty Type Hinting Techniques and Tools For Better Python Code.](https://betterprogramming.pub/twenty-type-hinting-techniques-and-tools-for-better-python-code-e877e0b0c679). Published in [Better Programming](https://betterprogramming.pub/) - April 2, 2021.
-
-1. [Twenty-Three Essential Commands for the best experience with your Minikube Installation](https://dr-bruce-cottman.medium.com/twenty-three-essential-commands-for-the-best-experience-with-your-minikube-installation-4569bf247745) - April 21, 2021.
-
-1. [How to Assign Cloud Virtual Machines to a Kubernetes Node](https://itnext.io/how-to-assign-cloud-virtual-machines-to-a-kubernetes-node-277b59834d69) Published in ITNext.io - May 1, 2021. 
-
-1. [Thirty-One Checks For Different Levels of Machine Learning Operation Maturity](https://dr-bruce-cottman.medium.com/thirty-one-checks-for-different-levels-of-machine-learning-operation-maturity-2ba19cc87be9) - Published in [towardsdatascience.com](https://towardsdatascience.com) May 13, 2021. 
-
  1. [A Natural Language Processing Benchmark Framework](https://medium.com/mlearning-ai/a-natural-language-processing-benchmark-framework-9084e042f128) Published in [mlearning-ai](https://medium.com/mlearning-ai) May 14, 2021.
 
 1. [How to Assign Computing Resources for Four Different Cloud Kubernetes Services: AKS, EKS, GKE, and Minikube]()  - Published in - May 20, 2021
+
+1. [Eighteen Python Snippets for Colab Productivity](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com -  Jun 10, 2021.
+
+1. [How close is GPT-3 to Artificial General Intelligence?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in  towardsdatascience.com -  Jun 14, 2021.
+
+1. [Know these Concepts and Lesson Tips: edX AWS Developer Course.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com - Jun 18, 2021.
+
+1. [Machine Learning Execution is a Directed Acyclic Graphe.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in  towardsdatascience.com -  Jun 22, 2021.
+
+1. [Photonai Is A High Code Framework for Scikit-Learn, Keras, Tensorflow, Pytorch, and other?.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com - Jul 26, 2021.
+
+1. [Our Enterprise Docker Solution for Migration to the Cloud.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com -  Jun 27, 2021.
+
+
 
 1. [Twenty-one Techniques and Five Concepts For Better Docker Usage.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in  Published in towardsdatascience.com - - Jul 21, 2021.
 
@@ -191,16 +197,5 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [The First Ten Primary Concepts and Code Examples For Using Kubernetes Productively.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in  towardsdatascience.com -  Jun 22, 2022.
   
-1. [Photonai Is A High Code Framework for Scikit-Learn, Keras, Tensorflow, Pytorch, and other?.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com - Jul 26, 2021.
-
-1. [Eighteen Python Snippets for Colab Productivity](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com -  Jun 10, 2021.
-
-1. [How close is GPT-3 to Artificial General Intelligence?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in  towardsdatascience.com -  Jun 14, 2021.
-
-1. [Know these Concepts and Lesson Tips: edX AWS Developer Course.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com - Jun 18, 2021.
-
-1. [Machine Learning Execution is a Directed Acyclic Graphe.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in  towardsdatascience.com -  Jun 22, 2021.
-
-1. [Our Enterprise Docker Solution for Migration to the Cloud.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com -  Jun 27, 2021.
 
 
