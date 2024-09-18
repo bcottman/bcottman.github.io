@@ -160,7 +160,7 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [Company and Country Financial Data into a Python Pandas Dataframe]https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Jun 21, 2022.
 
-1. [Company and Country Financial Data into a Python Pandas Dataframe]https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Jun 21, 2022.
+1. [The First Ten Primary Concepts and Code Examples For Using Kubernetes Productively.]() Published in  towardsdatascience.com -  Jun 22, 2022.
 
 1. [Four Docker Containers for the Natural Language Processing Lifecycle.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022.
 
@@ -172,11 +172,11 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [How does the Fed Bank Affect the U.S. Economy and Asset Prices?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Jul 20, 2022.
 
-1. [The First Ten Primary Concepts and Code Examples For Using Kubernetes Productively.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in  towardsdatascience.com -  Jun 22, 2022.
 
-1. [Forty-Seven Best Practice Refactoring Techniques for Better Python Codes.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [Better Programming](https://betterprogramming.pub/) Oct 8, 2022.
 
-1. [A Stepped Approach for Balancing and Augmenting Structured Data for Classification]()  - Published in [towardsdatascience.com](https://towardsdatascience.com) Oct 24, 2022.
+1. [Forty-Seven Best Practice Refactoring Techniques for Better Python Codes.](https://medium.com/better-programming/forty-seven-best-practice-refactoring-techniques-for-better-python-code-6e5d6e091f9a) Published in [Better Programming](https://betterprogramming.pub/) Oct 8, 2022.
+
+1. [A Stepped Approach for Balancing and Augmenting Structured Data for Classification](https://medium.com/towards-data-science/a-stepped-approach-for-balancing-and-augmenting-structured-data-for-classification-b9602be5a050)  - Published in [towardsdatascience.com](https://towardsdatascience.com) Oct 24, 2022.
 
 1. [The Best Way We Create and Manage Multiple Versions of Pythons.](https://medium.com/better-programming/the-best-way-we-create-and-manage-multiple-versions-of-python-22363e065a43) Published in [Better Programming](https://betterprogramming.pub/) Dec 15, 2022.
 
