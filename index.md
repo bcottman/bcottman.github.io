@@ -156,6 +156,8 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
   
 1. [Twelve Investment Tips A Financial Advisor Will Never Tell You](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Mar 30, 2022.
 
+1. [Three Different Ways to Create High-Performace Custom Extensions to the Pandas DataFram.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 4, 2022.
+
 1. [Company and Country Financial Data into a Python Pandas Dataframe]https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Jun 21, 2022.
 
 1. [Company and Country Financial Data into a Python Pandas Dataframe]https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Jun 21, 2022.
@@ -185,13 +187,12 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 1. [Improve Your Exploratory Data Analysis for Tabular Data: Part 1.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published on March 1, 2023.
 
 
-1. [Part 1: Eight Major Methods For FineTuning an LLM.]([https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2](https://medium.com/@dr-bruce-cottman/part-1-eight-major-methods-for-finetuning-an-llm-6f746c7259ee)) Published on Apr 9, 2023.
+1. [Part 1: Eight Major Methods For FineTuning an LLM.](https://medium.com/@dr-bruce-cottman/part-1-eight-major-methods-for-finetuning-an-llm-6f746c7259ee) Published on Apr 9, 2023.
 
 1. [More Than Thirty Machine Learning Blogs and Newsletters that Increased our Productivity.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) April 18, 2023.
 
 1. [The Five Steps for Determining Returns From Asset Price Historical Data Using Python.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/)J May 2, 2023.
 
-1. [Three Different Ways to Create High-Performace Custom Extensions to the Pandas DataFram.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 4, 2022.
 
 
 1. [Optimizing My Rust Development Environment.](https://medium.com/better-programming/optimizing-my-rust-development-environment-248bff858e73) Published in [Better Programming](https://betterprogramming.pub/) June 6, 2023.
