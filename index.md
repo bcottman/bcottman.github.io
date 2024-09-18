@@ -190,19 +190,19 @@ Published In Noteworthy - The Journal Blog Feb 14, 2020.
 
 1. [How does the Fed Bank Affect the U.S. Economy and Asset Prices?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2) Published in [DataDrivenInvestor](https://DataDrivenInvestor.pub/) Jul 20, 2022.
 
-1.[The First Ten Primary Concepts and Code Examples For Using Kubernetes Productively.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2022.
+1.[The First Ten Primary Concepts and Code Examples For Using Kubernetes Productively.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in  towardsdatascience.com -  Jun 22, 2022.
   
-1. [Photonai Is A High Code Framework for Scikit-Learn, Keras, Tensorflow, Pytorch, and other?.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com )Jul 26, 2021.
+1. [Photonai Is A High Code Framework for Scikit-Learn, Keras, Tensorflow, Pytorch, and other?.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com - Jul 26, 2021.
 
-1. [Eighteen Python Snippets for Colab Productivity](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com)  Jun 10, 2021.
+1. [Eighteen Python Snippets for Colab Productivity](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com -  Jun 10, 2021.
 
-1.[How close is GPT-3 to Artificial General Intelligence?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com)  Jun 14, 2021.
+1.[How close is GPT-3 to Artificial General Intelligence?](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in  towardsdatascience.com -  Jun 14, 2021.
 
-1. [Know these Concepts and Lesson Tips: edX AWS Developer Course.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 18, 2021.
+1. [Know these Concepts and Lesson Tips: edX AWS Developer Course.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com - Jun 18, 2021.
 
-1. [Machine Learning Execution is a Directed Acyclic Graphe.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 22, 2021
+1. [Machine Learning Execution is a Directed Acyclic Graphe.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in  towardsdatascience.com -  Jun 22, 2021.
 
-1. [Our Enterprise Docker Solution for Migration to the Cloud.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in [towardsdatascience.com](https://towardsdatascience.com) Jun 27, 2021.
+1. [Our Enterprise Docker Solution for Migration to the Cloud.](https://dr-bruce-cottman.medium.com/more-than-thirty-machine-learning-blogs-and-newsletters-that-increased-our-productivity-3825b6b042e2)  Published in towardsdatascience.com -  Jun 27, 2021.
 
 
 
